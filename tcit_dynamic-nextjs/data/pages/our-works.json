@@ -1,0 +1,422 @@
+{
+  "slug": "our-works",
+  "path": "/our-works",
+  "metadata": {
+    "title": "Our Works | TechnoCIT Software Solutions",
+    "description": "TechnoCIT provides high-quality IT solutions and services, helping businesses quickly develop, deliver, and support intelligent software applications that meet their goals while protecting their investment.​",
+    "canonical": "../our-works/",
+    "og": {
+      "locale": "en_US",
+      "type": "article",
+      "title": "Our Works | TechnoCIT Software Solutions",
+      "description": "TechnoCIT provides high-quality IT solutions and services, helping businesses quickly develop, deliver, and support intelligent software applications that meet their goals while protecting their investment.​",
+      "url": "../our-works/",
+      "updated_time": "2025-03-03T06:59:17+00:00",
+      "image": "../wp-content/uploads/2024/12/CBD.png",
+      "image:secure_url": "../wp-content/uploads/2024/12/CBD.png",
+      "image:width": "1348",
+      "image:height": "501",
+      "image:alt": "CBD Case Study",
+      "image:type": "image/png"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Our Works | TechnoCIT Software Solutions",
+      "description": "TechnoCIT provides high-quality IT solutions and services, helping businesses quickly develop, deliver, and support intelligent software applications that meet their goals while protecting their investment.​",
+      "image": "../wp-content/uploads/2024/12/CBD.png",
+      "label1": "Time to read",
+      "data1": "Less than a minute"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "../#organization",
+          "name": "TechnoCIT Software Solutions",
+          "url": "../",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "../#logo",
+            "url": "../wp-content/uploads/2024/05/Logo.svg",
+            "contentUrl": "../wp-content/uploads/2024/05/Logo.svg",
+            "inLanguage": "en-US"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "../#website",
+          "url": "../",
+          "publisher": {
+            "@id": "../#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "../wp-content/uploads/2024/12/CBD.png",
+          "url": "../wp-content/uploads/2024/12/CBD.png",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "../our-works/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "../",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "../our-works/",
+                "name": "Our Works | TechnoCIT Software Solutions"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "../our-works/#webpage",
+          "url": "../our-works/",
+          "name": "Our Works | TechnoCIT Software Solutions",
+          "datePublished": "2025-02-17T11:46:13+00:00",
+          "dateModified": "2025-03-03T06:59:17+00:00",
+          "isPartOf": {
+            "@id": "../#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "../wp-content/uploads/2024/12/CBD.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "../our-works/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "../author/mathan/",
+          "name": "Mathan Kannan",
+          "url": "../author/mathan/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7972a1fd6e47b96fba16b023aeace4b61a397d03eb1ae37d2283d84e3027d542?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7972a1fd6e47b96fba16b023aeace4b61a397d03eb1ae37d2283d84e3027d542?s=96&amp;d=mm&amp;r=g",
+            "caption": "Mathan Kannan",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "../#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Our Works | TechnoCIT Software Solutions",
+          "keywords": "Software Development Company",
+          "datePublished": "2025-02-17T11:46:13+00:00",
+          "dateModified": "2025-03-03T06:59:17+00:00",
+          "author": {
+            "@id": "../author/mathan/",
+            "name": "Mathan Kannan"
+          },
+          "publisher": {
+            "@id": "../#organization"
+          },
+          "description": "TechnoCIT provides high-quality IT solutions and services, helping businesses quickly develop, deliver, and support intelligent software applications that meet their goals while protecting their investment.​",
+          "name": "Our Works | TechnoCIT Software Solutions",
+          "@id": "../our-works/#richSnippet",
+          "isPartOf": {
+            "@id": "../our-works/#webpage"
+          },
+          "image": {
+            "@id": "../wp-content/uploads/2024/12/CBD.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "../our-works/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "Our Works",
+      "href": "/our-works/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us-2/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    },
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "Our Works",
+      "href": "/our-works/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us-2/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    }
+  ],
+  "content": {
+    "html": "<div data-elementor-type=\"wp-page\" data-elementor-id=\"19691\" class=\"elementor elementor-19691\" data-elementor-post-type=\"page\"> <div class=\"elementor-element elementor-element-2055389 e-flex e-con-boxed e-con e-parent\" data-id=\"2055389\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-c349c7c elementor-widget elementor-widget-heading\" data-id=\"c349c7c\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;slideInUp&quot;}\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">Innovate. Evolve. Achieve</h1> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-9820836 e-flex e-con-boxed e-con e-parent\" data-id=\"9820836\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-490205b e-con-full e-flex e-con e-child\" data-id=\"490205b\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-1679de0 e-con-full e-flex e-con e-child\" data-id=\"1679de0\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-57d8b37 elementor-widget elementor-widget-image\" data-id=\"57d8b37\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <a href=\"/cbd-case-study/\"> <img fetchpriority=\"high\" decoding=\"async\" width=\"1348\" height=\"501\" src=\"/static/images/2024/12/CBD.png\" class=\"attachment-full size-full wp-image-17228\" alt=\"CBD Case Study\" srcset=\"../wp-content/uploads/2024/12/CBD.png 1348w, ../wp-content/uploads/2024/12/CBD-300x111.png 300w, ../wp-content/uploads/2024/12/CBD-1024x381.png 1024w, ../wp-content/uploads/2024/12/CBD-768x285.png 768w\" sizes=\"(max-width: 1348px) 100vw, 1348px\"> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-cee2974 e-con-full e-flex e-con e-child\" data-id=\"cee2974\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-74b3a92 elementor-widget elementor-widget-heading\" data-id=\"74b3a92\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h4 class=\"elementor-heading-title elementor-size-default\">Commercial Bank Of Dubai</h4> </div> </div> <div class=\"elementor-element elementor-element-e4ec3b6 elementor-widget elementor-widget-text-editor\" data-id=\"e4ec3b6\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Transforming User Experience and Modernizing CBD’s Digital Presence</p> </div> </div> <div class=\"elementor-element elementor-element-5b4fdd9 e-con-full e-flex e-con e-child\" data-id=\"5b4fdd9\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-2239278 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"2239278\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">UX Research</span> </span> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-14d5175 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"14d5175\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">UI/UX Design</span> </span> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-9e85dda elementor-align-center elementor-widget elementor-widget-button\" data-id=\"9e85dda\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">Development</span> </span> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-0518827 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"0518827\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">CMS Implementation</span> </span> </a> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-8ef38be e-con-full e-flex e-con e-child\" data-id=\"8ef38be\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-0e2ff49 e-con-full e-flex e-con e-child\" data-id=\"0e2ff49\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-cc2f109 elementor-widget elementor-widget-image\" data-id=\"cc2f109\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <a href=\"/mashreq-bank-digital-onboarding/\"> <img decoding=\"async\" width=\"654\" height=\"501\" src=\"/static/images/2025/02/Mashreq.png\" class=\"attachment-full size-full wp-image-21287\" alt=\"Mashreq Bank Case Study\" srcset=\"../wp-content/uploads/2025/02/Mashreq.png 654w, ../wp-content/uploads/2025/02/Mashreq-300x230.png 300w\" sizes=\"(max-width: 654px) 100vw, 654px\"> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-8e38969 e-con-full e-flex e-con e-child\" data-id=\"8e38969\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-95e683a elementor-widget elementor-widget-heading\" data-id=\"95e683a\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h4 class=\"elementor-heading-title elementor-size-default\">Digital Onboarding Solution for Mashreq Bank, UAE</h4> </div> </div> <div class=\"elementor-element elementor-element-70f3c0d elementor-widget elementor-widget-text-editor\" data-id=\"70f3c0d\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Enhancing Customer Experience and Operational Efficiency with Scalable, Compliant Onboarding Solutions</p> </div> </div> <div class=\"elementor-element elementor-element-aa8b4e9 e-con-full e-flex e-con e-child\" data-id=\"aa8b4e9\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-23fab74 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"23fab74\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">Development</span> </span> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-451a4c5 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"451a4c5\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">CMS Implementation</span> </span> </a> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-ba55c89 e-con-full e-flex e-con e-child\" data-id=\"ba55c89\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-28b1fa3 e-con-full e-flex e-con e-child\" data-id=\"28b1fa3\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-9953941 elementor-widget elementor-widget-image\" data-id=\"9953941\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <a href=\"/suntory-case-study/\"> <img decoding=\"async\" width=\"654\" height=\"501\" src=\"/static/images/2024/12/Suntory.png\" class=\"attachment-full size-full wp-image-17226\" alt=\"Suntory Case Study\" srcset=\"../wp-content/uploads/2024/12/Suntory.png 654w, ../wp-content/uploads/2024/12/Suntory-300x230.png 300w\" sizes=\"(max-width: 654px) 100vw, 654px\"> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-1b73f95 e-con-full e-flex e-con e-child\" data-id=\"1b73f95\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-9a73663 elementor-widget elementor-widget-heading\" data-id=\"9a73663\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h4 class=\"elementor-heading-title elementor-size-default\">Suntory</h4> </div> </div> <div class=\"elementor-element elementor-element-8fb9461 elementor-widget elementor-widget-text-editor\" data-id=\"8fb9461\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Driving Engagement and Loyalty Through Scalable, Incentive-Driven CRM Solutions</p> </div> </div> <div class=\"elementor-element elementor-element-b948ab5 e-con-full e-flex e-con e-child\" data-id=\"b948ab5\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-4d8cf94 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"4d8cf94\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">Development</span> </span> </a> </div> </div> </div> <div class=\"elementor-element elementor-element-0e09f2a elementor-align-center elementor-widget elementor-widget-button\" data-id=\"0e09f2a\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-check\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z\"></path></svg> </span> <span class=\"elementor-button-text\">Testing</span> </span> </a> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-39091fd e-con-full elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet_extra e-flex e-con e-child\" data-id=\"39091fd\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-d0e3ac7 elementor-align-justify elementor-widget elementor-widget-button\" data-id=\"d0e3ac7\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-size-sm\" role=\"button\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"15\" viewBox=\"0 0 22 15\" fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.3941 14.7165L21.5795 8.55684C21.959 8.17885 21.959 7.56601 21.5795 7.18803L15.3941 1.02836C15.0145 0.65037 14.3991 0.65037 14.0195 1.02836C13.64 1.40635 13.64 2.01919 14.0195 2.39717L18.5457 6.90453L0.481445 6.90453L0.481445 8.84033H18.5457L14.0195 13.3477C13.64 13.7257 13.64 14.3385 14.0195 14.7165C14.3991 15.0945 15.0145 15.0945 15.3941 14.7165Z\" fill=\"#121212\"></path></svg> </span> <span class=\"elementor-button-text\">View All Works</span> </span> </a> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-35816dbd e-flex e-con-boxed e-con e-parent\" data-id=\"35816dbd\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-159ce3b e-con-full e-flex e-con e-child\" data-id=\"159ce3b\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-778ff9e e-con-full e-flex e-con e-child\" data-id=\"778ff9e\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-10469eaf elementor-widget elementor-widget-heading\" data-id=\"10469eaf\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\"><a href=\"#Service-1\">We care digital world! </a></h2> </div> </div> <div class=\"elementor-element elementor-element-1a2c7e5d elementor-widget elementor-widget-heading\" data-id=\"1a2c7e5d\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <span class=\"elementor-heading-title elementor-size-default\">TechnoCIT is a modern solution for your business. A trusted one-stop shop for all your web and digital needs, at the forefront of software development and digital strategy, delivering solutions that yield greater results.</span> </div> </div> </div> <div class=\"elementor-element elementor-element-5a1ee53a elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"5a1ee53a\" data-element_type=\"widget\" data-widget_type=\"divider.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-divider\"> <span class=\"elementor-divider-separator\"> </span> </div> </div> </div> <div class=\"elementor-element elementor-element-1f29bbb8 e-con-full e-flex e-con e-child\" data-id=\"1f29bbb8\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-3245ad1e e-con-full e-flex e-con e-child\" data-id=\"3245ad1e\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-8c10102 elementor-widget elementor-widget-heading\" data-id=\"8c10102\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">10+</h1> </div> </div> <div class=\"elementor-element elementor-element-5c1fa701 elementor-widget elementor-widget-text-editor\" data-id=\"5c1fa701\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>VERTICALS</p> </div> </div> </div> <div class=\"elementor-element elementor-element-4b51c468 e-con-full e-flex e-con e-child\" data-id=\"4b51c468\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-27549bb8 elementor-widget elementor-widget-heading\" data-id=\"27549bb8\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">100+</h1> </div> </div> <div class=\"elementor-element elementor-element-12e6a608 elementor-widget elementor-widget-text-editor\" data-id=\"12e6a608\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>SOLUTIONS</p> </div> </div> </div> <div class=\"elementor-element elementor-element-2ac5bc06 e-con-full e-flex e-con e-child\" data-id=\"2ac5bc06\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-2998e0bc elementor-widget elementor-widget-heading\" data-id=\"2998e0bc\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">80+</h1> </div> </div> <div class=\"elementor-element elementor-element-76596ef0 elementor-widget elementor-widget-text-editor\" data-id=\"76596ef0\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>TEAM MEMBERS</p> </div> </div> </div> <div class=\"elementor-element elementor-element-561477f3 e-con-full e-flex e-con e-child\" data-id=\"561477f3\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-17182c06 elementor-widget elementor-widget-heading\" data-id=\"17182c06\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">10+</h1> </div> </div> <div class=\"elementor-element elementor-element-2c424592 elementor-widget elementor-widget-text-editor\" data-id=\"2c424592\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>YEARS IN BUSINESS</p> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-62bc4f55 elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"62bc4f55\" data-element_type=\"widget\" data-widget_type=\"divider.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-divider\"> <span class=\"elementor-divider-separator\"> </span> </div> </div> </div> </div> </div> </div> </div>",
+    "elementorId": "19691",
+    "sections": [],
+    "headings": [
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "Success Stories: Transforming Ideas into Impact",
+        "id": null
+      },
+      {
+        "level": 3,
+        "tag": "h3",
+        "text": "TechnoCIT provides high-quality IT solutions and services, helping businesses quickly develop, deliver, and support intelligent software applications that meet their goals while protecting their investment.​",
+        "id": null
+      },
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "Innovate. Evolve. Achieve",
+        "id": null
+      },
+      {
+        "level": 4,
+        "tag": "h4",
+        "text": "Commercial Bank Of Dubai",
+        "id": null
+      },
+      {
+        "level": 4,
+        "tag": "h4",
+        "text": "Digital Onboarding Solution for Mashreq Bank, UAE",
+        "id": null
+      },
+      {
+        "level": 4,
+        "tag": "h4",
+        "text": "Suntory",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "We care digital world!",
+        "id": null
+      },
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "10+",
+        "id": null
+      },
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "100+",
+        "id": null
+      },
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "80+",
+        "id": null
+      },
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "10+",
+        "id": null
+      }
+    ],
+    "paragraphs": [
+      "Transforming User Experience and Modernizing CBD’s Digital Presence",
+      "Enhancing Customer Experience and Operational Efficiency with Scalable, Compliant Onboarding Solutions",
+      "Driving Engagement and Loyalty Through Scalable, Incentive-Driven CRM Solutions"
+    ],
+    "images": [
+      {
+        "src": "/static/images/2024/12/CBD.png",
+        "alt": "CBD Case Study",
+        "width": 1348,
+        "height": 501
+      },
+      {
+        "src": "/static/images/2025/02/Mashreq.png",
+        "alt": "Mashreq Bank Case Study",
+        "width": 654,
+        "height": 501
+      },
+      {
+        "src": "/static/images/2024/12/Suntory.png",
+        "alt": "Suntory Case Study",
+        "width": 654,
+        "height": 501
+      }
+    ],
+    "links": [
+      {
+        "href": "/contact/",
+        "text": "Contact Us"
+      },
+      {
+        "href": "/cbd-case-study/",
+        "text": "../cbd-case-study/"
+      },
+      {
+        "href": "/mashreq-bank-digital-onboarding/",
+        "text": "../mashreq-bank-digital-onboarding/"
+      },
+      {
+        "href": "/suntory-case-study/",
+        "text": "../suntory-case-study/"
+      }
+    ]
+  },
+  "styles": {
+    "inline": [
+      {
+        "id": "wp-img-auto-sizes-contain-inline-css",
+        "content": "img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */"
+      },
+      {
+        "id": "wp-emoji-styles-inline-css",
+        "content": "img.wp-smiley, img.emoji {\ndisplay: inline !important;\nborder: none !important;\nbox-shadow: none !important;\nheight: 1em !important;\nwidth: 1em !important;\nmargin: 0 0.07em !important;\nvertical-align: -0.1em !important;\nbackground: none !important;\npadding: 0 !important;\n}\n/*# sourceURL=wp-emoji-styles-inline-css */"
+      },
+      {
+        "id": "",
+        "content": ""
+      },
+      {
+        "id": "wp-custom-css",
+        "content": ".scroll-part .elementor-widget-icon-list {\nposition: sticky;\ntop: 135px;\n}\n.scroll-img .elementor-widget-image {\nposition: sticky;\ntop: 120px;\n}"
+      },
+      {
+        "id": "global-styles-inline-css",
+        "content": ":root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n/*# sourceURL=global-styles-inline-css */"
+      },
+      {
+        "id": "body-style-0",
+        "content": ".elementor-3080 .elementor-element.elementor-element-433ca67c{--display:flex;--min-height:60px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:1%;--padding-bottom:1%;--padding-left:8%;--padding-right:8%;--z-index:95;}.elementor-3080 .elementor-element.elementor-element-433ca67c:not(.elementor-motion-effects-element-type-background), .elementor-3080 .elementor-element.elementor-element-433ca67c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3080 .elementor-element.elementor-element-7e925246{text-align:left;}.elementor-3080 .elementor-element.elementor-element-7e925246 img{width:100%;height:60px;object-fit:contain;object-position:center center;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-menu-toggle{margin-left:auto;background-color:#02010100;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu .elementor-item{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item{color:#1C244B;fill:#1C244B;padding-left:0px;padding-right:0px;padding-top:5px;padding-bottom:5px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item:hover,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.elementor-item-active,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.highlighted,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item:focus{color:#324A6D;fill:#324A6D;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#324A6D;}.elementor-3080 .elementor-element.elementor-element-609ca708{--e-nav-menu-horizontal-menu-item-margin:calc( 30px / 2 );}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:30px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-menu-toggle{color:#1C244B;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown{background-color:#F3F5F8;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a:hover,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.elementor-item-active,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.highlighted{background-color:#F9FAFD;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.elementor-item-active{background-color:#F9FAFD;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown .elementor-item, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;letter-spacing:0px;}.elementor-3080 .elementor-element.elementor-element-609ca708 div.elementor-menu-toggle{color:#467FF7;}.elementor-3080 .elementor-element.elementor-element-609ca708 div.elementor-menu-toggle svg{fill:#467FF7;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button-content-wrapper{flex-direction:row-reverse;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button .elementor-button-content-wrapper{gap:5px;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button{font-weight:600;border-radius:30px 30px 30px 30px;}@media(max-width:1024px){.elementor-3080 .elementor-element.elementor-element-433ca67c{--padding-top:0%;--padding-bottom:0%;--padding-left:5%;--padding-right:5%;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu .elementor-item{font-size:14px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown .elementor-item, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:14px;}}@media(max-width:767px){.elementor-3080 .elementor-element.elementor-element-433ca67c{--min-height:50px;--padding-top:2%;--padding-bottom:2%;--padding-left:2%;--padding-right:2%;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a{padding-top:14px;padding-bottom:14px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:15px !important;}.elementor-3080 .elementor-element.elementor-element-609ca708{--nav-menu-icon-size:20px;}}"
+      },
+      {
+        "id": "body-style-1",
+        "content": ".elementor-3084 .elementor-element.elementor-element-f69d561{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 20px;--row-gap:0px;--column-gap:20px;--flex-wrap:wrap;--padding-top:80px;--padding-bottom:50px;--padding-left:20px;--padding-right:20px;}.elementor-3084 .elementor-element.elementor-element-f69d561:not(.elementor-motion-effects-element-type-background), .elementor-3084 .elementor-element.elementor-element-f69d561 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-d09e2c5 );}.elementor-3084 .elementor-element.elementor-element-28cb51e{--display:flex;--gap:32px 32px;--row-gap:32px;--column-gap:32px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-157b228{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--gap:12px 0px;--row-gap:12px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-157b228.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-3084 .elementor-element.elementor-element-084bedf{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-item > a{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-text{color:#133D8D;transition:color 0.3s;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--gap:0px 40px;--row-gap:0px;--column-gap:40px;--flex-wrap:nowrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ad7372a{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:12px 20px;--row-gap:12px;--column-gap:20px;--flex-wrap:wrap;--align-content:center;--padding-top:0px;--padding-bottom:20px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-566892a{column-gap:0px;text-align:center;color:var( --e-global-color-accent );font-family:\"Lato\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;}.elementor-3084 .elementor-element.elementor-element-566892a p{margin-bottom:0px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 9px 0px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-9ad6109{--divider-border-style:solid;--divider-color:var( --e-global-color-secondary );--divider-border-width:1px;}.elementor-3084 .elementor-element.elementor-element-9ad6109 .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-3084 .elementor-element.elementor-element-9ad6109 .elementor-divider{text-align:center;padding-block-start:10px;padding-block-end:10px;}.elementor-3084 .elementor-element.elementor-element-1ba6504{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-e3e9df0{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-413d589 img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-f7678c6 img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-c61703f img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-952cb0f img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-91756d8{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-76d23b0{column-gap:0px;text-align:right;color:var( --e-global-color-accent );font-family:\"Lato\", Sans-serif;font-weight:400;line-height:32px;}.elementor-3084 .elementor-element.elementor-element-76d23b0 p{margin-bottom:0px;}@media(min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--width:100%;}}@media(max-width:1200px) and (min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--width:100%;}.elementor-3084 .elementor-element.elementor-element-ad7372a{--width:100%;}}@media(max-width:880px) and (min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}}@media(max-width:767px){.elementor-3084 .elementor-element.elementor-element-f69d561{--padding-top:40px;--padding-bottom:40px;--padding-left:20px;--padding-right:20px;}.elementor-3084 .elementor-element.elementor-element-157b228{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-3084 .elementor-element.elementor-element-d9be598{text-align:center;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;}.elementor-3084 .elementor-element.elementor-element-372758e{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-55b03bf{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-ae89519{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-566892a{text-align:center;}.elementor-3084 .elementor-element.elementor-element-1ba6504.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-e3e9df0{--justify-content:center;}.elementor-3084 .elementor-element.elementor-element-e3e9df0.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-413d589 img{height:32px;}.elementor-3084 .elementor-element.elementor-element-f7678c6 img{height:32px;}.elementor-3084 .elementor-element.elementor-element-c61703f img{height:32px;}.elementor-3084 .elementor-element.elementor-element-952cb0f img{height:32px;}.elementor-3084 .elementor-element.elementor-element-91756d8.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-76d23b0{text-align:center;}}"
+      }
+    ],
+    "external": [
+      {
+        "href": "/static/css/plugins/contact-form-7/includes/css/styles.css",
+        "id": "contact-form-7-css"
+      },
+      {
+        "href": "/static/css/plugins/the-preloader/css/templates/image.css",
+        "id": "the_preloader_template-css"
+      },
+      {
+        "href": "/static/css/plugins/animation-addons-for-elementor/assets/css/wcf-addons.min.css",
+        "id": "wcf--addons-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/style.min.css",
+        "id": "hello-elementor-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/theme.min.css",
+        "id": "hello-elementor-theme-style-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/header-footer.min.css",
+        "id": "hello-elementor-header-footer-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-frontend.min.css",
+        "id": "elementor-frontend-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3.css",
+        "id": "elementor-post-3-css"
+      },
+      {
+        "href": "/static/css/plugins/newsletter/style.css",
+        "id": "newsletter-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-widget-icon-list.min.css",
+        "id": "widget-icon-list-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-heading.min.css",
+        "id": "widget-heading-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css",
+        "id": "e-animation-slideInUp-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-image.min.css",
+        "id": "widget-image-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-text-editor.min.css",
+        "id": "widget-text-editor-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-divider.min.css",
+        "id": "widget-divider-css"
+      },
+      {
+        "href": "/static/css/elementor/post-19691.css",
+        "id": "elementor-post-19691-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3080.css",
+        "id": "elementor-post-3080-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-pro-widget-nav-menu.min.css",
+        "id": "widget-nav-menu-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor-pro/assets/css/modules/sticky.min.css",
+        "id": "e-sticky-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3084.css",
+        "id": "elementor-post-3084-css"
+      }
+    ]
+  },
+  "extractedAt": "2025-12-29T13:49:59.340Z"
+}

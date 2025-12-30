@@ -1,0 +1,142 @@
+/* Global Styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&display=swap');
+
+:root {
+  --primary-color: #467FF7;
+  --secondary-color: #1C244B;
+  --text-color: #333;
+  --bg-color: #ffffff;
+  --border-color: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: 'Poppins', 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Utility Classes */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Disable Elementor lazy loading for background images */
+/* Override lazy loading rules to ensure all background images display */
+.e-con.e-parent:not(.e-lazyloaded),
+.e-con.e-parent:not(.e-lazyloaded) * {
+  background-image: inherit !important;
+}
+
+/* Remove Elementor invisible class - make all elements visible */
+.elementor-invisible {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+/* Header menu toggle functionality */
+.elementor-menu-toggle__icon--close {
+  display: none;
+}
+
+.elementor-menu-toggle[aria-expanded="true"] .elementor-menu-toggle__icon--open {
+  display: none;
+}
+
+.elementor-menu-toggle[aria-expanded="true"] .elementor-menu-toggle__icon--close {
+  display: block;
+}
+
+/* Dropdown menu visibility */
+.elementor-nav-menu--dropdown {
+  display: none;
+}
+
+.elementor-nav-menu--dropdown:not([aria-hidden="true"]) {
+  display: block;
+}
+
+.elementor-nav-menu--dropdown-hidden {
+  display: none !important;
+}
+
+/* Sticky header behavior */
+.elementor-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  transition: transform 0.3s ease;
+}
+
+.elementor-sticky--active {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+/* Ensure header container maintains width when sticky */
+.elementor-sticky .e-con-inner {
+  width: 100%;
+}
+
+/* Preloader styles */
+#the-preloader-element {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  background-color: #f8f9fa;
+}
+
+.the-preloader-image {
+  width: 64px;
+  height: 64px;
+}
+
+
+

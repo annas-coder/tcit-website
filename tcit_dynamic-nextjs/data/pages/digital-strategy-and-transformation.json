@@ -1,0 +1,455 @@
+{
+  "slug": "digital-strategy-and-transformation",
+  "path": "/digital-strategy-and-transformation",
+  "metadata": {
+    "title": "Digital Strategy and Transformation - TechnoCIT Software Solutions",
+    "description": "Going digital doesn’t have to be overwhelming. At Techno CIT, we help businesses like yours make the shift to digital in a clear, straightforward way. Whether you need a plan, better tools, or a way to simplify your daily tasks, we’re here to guide you.",
+    "canonical": "../digital-strategy-and-transformation/",
+    "og": {
+      "locale": "en_US",
+      "type": "article",
+      "title": "Digital Strategy and Transformation - TechnoCIT Software Solutions",
+      "description": "Going digital doesn’t have to be overwhelming. At Techno CIT, we help businesses like yours make the shift to digital in a clear, straightforward way. Whether you need a plan, better tools, or a way to simplify your daily tasks, we’re here to guide you.",
+      "url": "../digital-strategy-and-transformation/",
+      "updated_time": "2025-02-24T14:00:30+00:00",
+      "image": "../wp-content/uploads/2025/01/Digital-plan.png",
+      "image:secure_url": "../wp-content/uploads/2025/01/Digital-plan.png",
+      "image:width": "600",
+      "image:height": "600",
+      "image:alt": "Create a Clear Digital Plan",
+      "image:type": "image/png"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Digital Strategy and Transformation - TechnoCIT Software Solutions",
+      "description": "Going digital doesn’t have to be overwhelming. At Techno CIT, we help businesses like yours make the shift to digital in a clear, straightforward way. Whether you need a plan, better tools, or a way to simplify your daily tasks, we’re here to guide you.",
+      "image": "../wp-content/uploads/2025/01/Digital-plan.png",
+      "label1": "Time to read",
+      "data1": "2 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "../#organization",
+          "name": "TechnoCIT Software Solutions",
+          "url": "../",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "../#logo",
+            "url": "../wp-content/uploads/2024/05/Logo.svg",
+            "contentUrl": "../wp-content/uploads/2024/05/Logo.svg",
+            "inLanguage": "en-US"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "../#website",
+          "url": "../",
+          "publisher": {
+            "@id": "../#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://tcit.ae/wp-new/wp-content/uploads/2025/01/Digital-plan.png",
+          "url": "https://tcit.ae/wp-new/wp-content/uploads/2025/01/Digital-plan.png",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "../digital-strategy-and-transformation/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "../",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "../digital-strategy-and-transformation/",
+                "name": "Digital Strategy and Transformation"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "../digital-strategy-and-transformation/#webpage",
+          "url": "../digital-strategy-and-transformation/",
+          "name": "Digital Strategy and Transformation - TechnoCIT Software Solutions",
+          "datePublished": "2025-01-27T13:06:00+00:00",
+          "dateModified": "2025-02-24T14:00:30+00:00",
+          "isPartOf": {
+            "@id": "../#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://tcit.ae/wp-new/wp-content/uploads/2025/01/Digital-plan.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "../digital-strategy-and-transformation/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "../author/ashok/",
+          "name": "Ashok Karunanithi",
+          "url": "../author/ashok/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/2014b786f575704cbdfe8ec5231736a5abfcf11f03185a4fe2f1f8f6342f2efb?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/2014b786f575704cbdfe8ec5231736a5abfcf11f03185a4fe2f1f8f6342f2efb?s=96&amp;d=mm&amp;r=g",
+            "caption": "Ashok Karunanithi",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "../#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Digital Strategy and Transformation - TechnoCIT Software Solutions",
+          "keywords": "Digital Transformation Strategy",
+          "datePublished": "2025-01-27T13:06:00+00:00",
+          "dateModified": "2025-02-24T14:00:30+00:00",
+          "author": {
+            "@id": "../author/ashok/",
+            "name": "Ashok Karunanithi"
+          },
+          "publisher": {
+            "@id": "../#organization"
+          },
+          "description": "Going digital doesn’t have to be overwhelming. At Techno CIT, we help businesses like yours make the shift to digital in a clear, straightforward way. Whether you need a plan, better tools, or a way to simplify your daily tasks, we’re here to guide you.",
+          "name": "Digital Strategy and Transformation - TechnoCIT Software Solutions",
+          "@id": "../digital-strategy-and-transformation/#richSnippet",
+          "isPartOf": {
+            "@id": "../digital-strategy-and-transformation/#webpage"
+          },
+          "image": {
+            "@id": "https://tcit.ae/wp-new/wp-content/uploads/2025/01/Digital-plan.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "../digital-strategy-and-transformation/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "Our Works",
+      "href": "/our-works/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us-2/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    },
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "Our Works",
+      "href": "/our-works/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us-2/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    }
+  ],
+  "content": {
+    "html": "<div data-elementor-type=\"wp-page\" data-elementor-id=\"18545\" class=\"elementor elementor-18545\" data-elementor-post-type=\"page\"> <div class=\"elementor-element elementor-element-75ef29d e-flex e-con-boxed e-con e-parent\" data-id=\"75ef29d\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-b6bf1b0 e-con-full e-flex e-con e-child\" data-id=\"b6bf1b0\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-64a261d e-con-full e-flex e-con e-child\" data-id=\"64a261d\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-5becc3b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"5becc3b\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"19\" height=\"14\" viewBox=\"0 0 19 14\" fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.9169 0.808643L14.1871 13.814L11.8223 13.814L16.5522 0.808594L18.9169 0.808643Z\" fill=\"#B0CBEA\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.1886 0.809326L9.45976 13.8146L6.50391 13.8143L11.2337 0.809327L14.1886 0.809326Z\" fill=\"#4E84C4\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.86731 0.809326L4.13837 13.8146L0 13.8147L4.72913 0.809326L8.86731 0.809326Z\" fill=\"#133D8D\"></path></svg> </span> <span class=\"elementor-icon-list-text\">SERVICES</span> </li> </ul> </div> </div> </div> <div class=\"elementor-element elementor-element-31a048c7 e-con-full e-flex e-con e-child\" data-id=\"31a048c7\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-2f1e14d6 elementor-widget elementor-widget-heading\" data-id=\"2f1e14d6\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\">TechnoCIT: Making Digital Transformation Simple</h1> </div> </div> <div class=\"elementor-element elementor-element-57622fc elementor-widget elementor-widget-text-editor\" data-id=\"57622fc\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Going digital doesn’t have to be overwhelming. At TechnoCIT, we help businesses like yours make the shift to digital in a clear, straightforward way. Whether you need a plan, better tools, or a way to simplify your daily tasks, we’re here to guide you.</p><p>We focus on what works best for your business, cutting through the complexity to deliver real results</p> </div> </div> <div class=\"elementor-element elementor-element-c1ff510 elementor-align-left elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button\" data-id=\"c1ff510\" data-element_type=\"widget\" data-widget_type=\"button.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-button-wrapper\"> <a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#digitalplan\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-arrow-right\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg> </span> <span class=\"elementor-button-text\">Learn More</span> </span> </a> </div> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-2055389 e-flex e-con-boxed e-con e-parent\" data-id=\"2055389\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-c349c7c elementor-widget elementor-widget-heading\" data-id=\"c349c7c\" data-element_type=\"widget\" data-settings=\"{&quot;_animation&quot;:&quot;slideInUp&quot;}\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\">Digital. Innovative. Creative</h2> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-732bebb e-flex e-con-boxed e-con e-parent\" data-id=\"732bebb\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-2341aeb e-con-full e-flex e-con e-child\" data-id=\"2341aeb\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-378e211 elementor-widget elementor-widget-image\" data-id=\"378e211\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img fetchpriority=\"high\" decoding=\"async\" width=\"600\" height=\"600\" src=\"/static/images/2025/01/Digital-plan.png\" class=\"attachment-full size-full wp-image-18557\" alt=\"Create a Clear Digital Plan\" srcset=\"../wp-content/uploads/2025/01/Digital-plan.png 600w, ../wp-content/uploads/2025/01/Digital-plan-300x300.png 300w, ../wp-content/uploads/2025/01/Digital-plan-150x150.png 150w\" sizes=\"(max-width: 600px) 100vw, 600px\"> </div> </div> </div> <div class=\"elementor-element elementor-element-740d161 e-con-full e-flex e-con e-child\" data-id=\"740d161\" data-element_type=\"container\" id=\"digitalplan\"> <div class=\"elementor-element elementor-element-47adc4f elementor-widget elementor-widget-heading\" data-id=\"47adc4f\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\">Create a Clear Digital Plan</h2> </div> </div> <div class=\"elementor-element elementor-element-bf18208 elementor-widget elementor-widget-text-editor\" data-id=\"bf18208\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>A good plan helps you know where to start and what to focus on. We work with you to create a simple, step-by-step strategy that makes sense for your business.</p> </div> </div> <div class=\"elementor-element elementor-element-2ba1848 elementor-widget elementor-widget-heading\" data-id=\"2ba1848\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h6 class=\"elementor-heading-title elementor-size-default\">Here’s how we do it:</h6> </div> </div> <div class=\"elementor-element elementor-element-391d29e e-con-full e-flex e-con e-child\" data-id=\"391d29e\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-69f9d7a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"69f9d7a\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Understand your goals and challenges.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Build a plan that’s easy to follow and fits your needs.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Focus on the changes that will make the biggest difference.</span> </li> </ul> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-8c14b71 e-flex e-con-boxed e-con e-parent\" data-id=\"8c14b71\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-d41772f e-con-full e-flex e-con e-child\" data-id=\"d41772f\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-071a2cf elementor-widget elementor-widget-heading\" data-id=\"071a2cf\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\">Simplify Your Work Processes</h2> </div> </div> <div class=\"elementor-element elementor-element-d85d021 elementor-widget elementor-widget-text-editor\" data-id=\"d85d021\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Struggling with outdated systems or repetitive tasks? We help you make your work faster and easier by streamlining your processes.</p> </div> </div> <div class=\"elementor-element elementor-element-3a7dfa6 elementor-widget elementor-widget-heading\" data-id=\"3a7dfa6\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h6 class=\"elementor-heading-title elementor-size-default\">What we’ll do:</h6> </div> </div> <div class=\"elementor-element elementor-element-6612263 e-con-full e-flex e-con e-child\" data-id=\"6612263\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-2e7048e elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"2e7048e\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Automate routine tasks to save you time.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Simplify workflows so your team can focus on important work.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Set up systems that are easy to use and maintain.</span> </li> </ul> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-060954b e-con-full e-flex e-con e-child\" data-id=\"060954b\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-aa72344 elementor-widget elementor-widget-image\" data-id=\"aa72344\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img decoding=\"async\" width=\"600\" height=\"600\" src=\"/static/images/2025/01/Work-process.png\" class=\"attachment-full size-full wp-image-18558\" alt=\"Simplify Your Work Processes\" srcset=\"../wp-content/uploads/2025/01/Work-process.png 600w, ../wp-content/uploads/2025/01/Work-process-300x300.png 300w, ../wp-content/uploads/2025/01/Work-process-150x150.png 150w\" sizes=\"(max-width: 600px) 100vw, 600px\"> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-580afc9 e-flex e-con-boxed e-con e-parent\" data-id=\"580afc9\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-644b392 e-con-full e-flex e-con e-child\" data-id=\"644b392\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-a0af2d3 elementor-widget elementor-widget-image\" data-id=\"a0af2d3\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img decoding=\"async\" width=\"600\" height=\"600\" src=\"/static/images/2025/01/Right-tools.png\" class=\"attachment-large size-large wp-image-18559\" alt=\"Find &amp; Setup the Right Tools\" srcset=\"../wp-content/uploads/2025/01/Right-tools.png 600w, ../wp-content/uploads/2025/01/Right-tools-300x300.png 300w, ../wp-content/uploads/2025/01/Right-tools-150x150.png 150w\" sizes=\"(max-width: 600px) 100vw, 600px\"> </div> </div> </div> <div class=\"elementor-element elementor-element-64b1e94 e-con-full e-flex e-con e-child\" data-id=\"64b1e94\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-5fe7693 elementor-widget elementor-widget-heading\" data-id=\"5fe7693\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\">Find &amp; Setup the Right Tools</h2> </div> </div> <div class=\"elementor-element elementor-element-19ee524 elementor-widget elementor-widget-text-editor\" data-id=\"19ee524\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Technology should help, not confuse. We guide you in choosing the best tools for your business and make sure they fit in seamlessly with what you already use.</p> </div> </div> <div class=\"elementor-element elementor-element-3fe34ef elementor-widget elementor-widget-heading\" data-id=\"3fe34ef\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h6 class=\"elementor-heading-title elementor-size-default\">What you can expect:</h6> </div> </div> <div class=\"elementor-element elementor-element-6b05109 e-con-full e-flex e-con e-child\" data-id=\"6b05109\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-8997dfb elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"8997dfb\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Advice on tools that solve your problems.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">A smooth setup that works with your current systems.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Support and training to get your team comfortable with the new tools.</span> </li> </ul> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-c01dd29 e-flex e-con-boxed e-con e-parent\" data-id=\"c01dd29\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-82c0769 e-con-full e-flex e-con e-child\" data-id=\"82c0769\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-1198a8a elementor-widget elementor-widget-heading\" data-id=\"1198a8a\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\">Use Your Data to Make Better Decisions</h2> </div> </div> <div class=\"elementor-element elementor-element-b337104 elementor-widget elementor-widget-text-editor\" data-id=\"b337104\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Your business creates valuable data every day—are you using it? We help you turn your numbers into insights that guide smarter decisions.</p> </div> </div> <div class=\"elementor-element elementor-element-de4fc6f elementor-widget elementor-widget-heading\" data-id=\"de4fc6f\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h6 class=\"elementor-heading-title elementor-size-default\">Here’s how we help:</h6> </div> </div> <div class=\"elementor-element elementor-element-1c533ce e-con-full e-flex e-con e-child\" data-id=\"1c533ce\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-06890b8 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"06890b8\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Create easy-to-read dashboards that show what’s working.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Help you use data to make decisions confidently.</span> </li> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"25\" height=\"20\" viewBox=\"0 0 25 20\" fill=\"none\"><path d=\"M8.9026 18.4839L9.18544 18.7667L9.46828 18.4839L23.775 4.1771L24.0579 3.89426L23.775 3.61142L21.8517 1.6881L21.5689 1.40526L21.286 1.6881L9.18544 13.7887L3.69834 8.3016L3.4155 8.01876L3.13266 8.3016L1.20934 10.2249L0.926502 10.5078L1.20934 10.7906L8.9026 18.4839Z\" fill=\"#133D8D\" stroke=\"#133D8D\" stroke-width=\"0.8\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Turn raw numbers into actions that improve your business.</span> </li> </ul> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-7c7516c e-con-full e-flex e-con e-child\" data-id=\"7c7516c\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-832c37f elementor-widget elementor-widget-image\" data-id=\"832c37f\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img loading=\"lazy\" decoding=\"async\" width=\"600\" height=\"600\" src=\"/static/images/2025/01/Data.png\" class=\"attachment-full size-full wp-image-18560\" alt=\"Use Your Data to Make Better Decisions\" srcset=\"../wp-content/uploads/2025/01/Data.png 600w, ../wp-content/uploads/2025/01/Data-300x300.png 300w, ../wp-content/uploads/2025/01/Data-150x150.png 150w\" sizes=\"(max-width: 600px) 100vw, 600px\"> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-712a9f91 e-flex e-con-boxed e-con e-parent\" data-id=\"712a9f91\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-3285f6cb e-con-full e-flex e-con e-child\" data-id=\"3285f6cb\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-339a0541 e-con-full e-flex e-con e-child\" data-id=\"339a0541\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-3317e648 elementor-widget elementor-widget-heading\" data-id=\"3317e648\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h2 class=\"elementor-heading-title elementor-size-default\"><a href=\"#Service-1\">Why Choose TechnoCIT?</a></h2> </div> </div> <div class=\"elementor-element elementor-element-240765e4 elementor-widget elementor-widget-heading\" data-id=\"240765e4\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h5 class=\"elementor-heading-title elementor-size-default\">When you work with us, you’re not just hiring a company—you’re teaming up with people who care about your success.</h5> </div> </div> </div> <div class=\"elementor-element elementor-element-7b3fcceb e-con-full e-flex e-con e-child\" data-id=\"7b3fcceb\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-81166d7 e-con-full e-flex e-con e-child\" data-id=\"81166d7\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-element elementor-element-3f852f3d e-con-full e-flex e-con e-child\" data-id=\"3f852f3d\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-7d43aeec elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"7d43aeec\" data-element_type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <div class=\"elementor-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"43\" height=\"43\" viewBox=\"0 0 43 43\" fill=\"none\"><mask id=\"mask0_1466_5985\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"43\" height=\"43\"><rect x=\"0.765625\" y=\"0.838867\" width=\"42\" height=\"42\" fill=\"#D9D9D9\"></rect></mask><g mask=\"url(#mask0_1466_5985)\"><path d=\"M23.3844 20.177L15.9469 12.7395L18.4406 10.2895L23.3844 15.2332L33.3156 5.3457L35.7656 7.7957L23.3844 20.177ZM13.0156 33.2145L25.1781 36.5395L35.5906 33.302C35.4448 33.0395 35.2333 32.8134 34.9563 32.6238C34.6792 32.4342 34.3656 32.3395 34.0156 32.3395H25.1781C24.3906 32.3395 23.7635 32.3103 23.2969 32.252C22.8302 32.1936 22.349 32.077 21.8531 31.902L17.7844 30.5457L18.7469 27.1332L22.2906 28.3145C22.7865 28.4603 23.3698 28.577 24.0406 28.6645C24.7115 28.752 25.7031 28.8103 27.0156 28.8395C27.0156 28.5186 26.9208 28.2124 26.7313 27.9207C26.5417 27.629 26.3156 27.4395 26.0531 27.352L15.8156 23.5895H13.0156V33.2145ZM2.51562 39.3395V20.0895H15.8156C16.0198 20.0895 16.224 20.1113 16.4281 20.1551C16.6323 20.1988 16.8219 20.2499 16.9969 20.3082L27.2781 24.1145C28.2406 24.4645 29.0208 25.077 29.6188 25.952C30.2167 26.827 30.5156 27.7895 30.5156 28.8395H34.0156C35.474 28.8395 36.7135 29.3207 37.7344 30.2832C38.7552 31.2457 39.2656 32.5145 39.2656 34.0895V35.8395L25.2656 40.2145L13.0156 36.802V39.3395H2.51562ZM6.01562 35.8395H9.51562V23.5895H6.01562V35.8395Z\" fill=\"white\"></path></g></svg> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-7862a0c4 e-con-full e-flex e-con e-child\" data-id=\"7862a0c4\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-3c748752 elementor-widget elementor-widget-heading\" data-id=\"3c748752\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h5 class=\"elementor-heading-title elementor-size-default\">We Make It Easy</h5> </div> </div> <div class=\"elementor-element elementor-element-30266162 elementor-widget elementor-widget-text-editor\" data-id=\"30266162\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>We break everything down into simple steps, so it’s easy to follow and stress-free.</p> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-79437b36 e-con-full e-flex e-con e-child\" data-id=\"79437b36\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-element elementor-element-5f5a3d e-con-full e-flex e-con e-child\" data-id=\"5f5a3d\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-415c615c elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"415c615c\" data-element_type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <div class=\"elementor-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"43\" height=\"43\" viewBox=\"0 0 43 43\" fill=\"none\"><mask id=\"mask0_1466_6009\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"43\" height=\"43\"><rect x=\"0.816406\" y=\"0.838867\" width=\"42\" height=\"42\" fill=\"#D9D9D9\"></rect></mask><g mask=\"url(#mask0_1466_6009)\"><path d=\"M9.56641 37.5889C8.60391 37.5889 7.77995 37.2462 7.09453 36.5607C6.40911 35.8753 6.06641 35.0514 6.06641 34.0889V27.0889H9.56641V34.0889H16.5664V37.5889H9.56641ZM27.0664 37.5889V34.0889H34.0664V27.0889H37.5664V34.0889C37.5664 35.0514 37.2237 35.8753 36.5383 36.5607C35.8529 37.2462 35.0289 37.5889 34.0664 37.5889H27.0664ZM6.06641 16.5889V9.58887C6.06641 8.62637 6.40911 7.80241 7.09453 7.11699C7.77995 6.43158 8.60391 6.08887 9.56641 6.08887H16.5664V9.58887H9.56641V16.5889H6.06641ZM34.0664 16.5889V9.58887H27.0664V6.08887H34.0664C35.0289 6.08887 35.8529 6.43158 36.5383 7.11699C37.2237 7.80241 37.5664 8.62637 37.5664 9.58887V16.5889H34.0664Z\" fill=\"white\"></path></g></svg> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-5656c346 e-con-full e-flex e-con e-child\" data-id=\"5656c346\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-2200044d elementor-widget elementor-widget-heading\" data-id=\"2200044d\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h5 class=\"elementor-heading-title elementor-size-default\">We Focus on You</h5> </div> </div> <div class=\"elementor-element elementor-element-45074078 elementor-widget elementor-widget-text-editor\" data-id=\"45074078\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Your business is unique, and we tailor everything to meet your specific needs.</p> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-3f58ca10 e-con-full e-flex e-con e-child\" data-id=\"3f58ca10\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-element elementor-element-6c6660f0 e-con-full e-flex e-con e-child\" data-id=\"6c6660f0\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-463fda66 elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"463fda66\" data-element_type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <div class=\"elementor-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\"><g clip-path=\"url(#clip0_1184_5496)\"><path d=\"M38.7033 37.1056C38.703 35.7666 37.9068 34.5625 36.6746 34.0383L27.2237 30.0174V27.661C28.2243 26.4049 28.857 24.9087 29.0689 23.3023H31.0009C32.8395 23.3023 34.3353 21.8065 34.3353 19.9679V15.1877C34.3353 13.5067 33.0843 12.113 31.4646 11.8864C31.2244 4.6546 27.1811 0.838867 19.7346 0.838867C12.2881 0.838867 8.24485 4.6546 8.00461 11.8864C6.38489 12.113 5.13391 13.5067 5.13391 15.1877V19.9679C5.13391 21.8065 6.62975 23.3023 8.4683 23.3023H10.4003C10.6122 24.909 11.2449 26.4051 12.2455 27.661V30.0174L2.79491 34.0383C1.56246 34.5625 0.766204 35.7666 0.765625 37.1059V37.6648C0.765625 37.9597 0.88256 38.2425 1.09125 38.4509C1.29965 38.6593 1.58244 38.7765 1.87709 38.7765H37.5921C37.8871 38.7765 38.1699 38.6593 38.3783 38.4509C38.5867 38.2422 38.7036 37.9594 38.7036 37.6648L38.7033 37.1056ZM25.0019 30.7972C25.0028 30.8238 25.065 33.5214 23.4716 35.1808C22.5966 36.0917 21.3393 36.5533 19.7346 36.5533C18.1357 36.5533 16.8816 36.0948 16.0072 35.1906C14.3947 33.5226 14.4667 30.8206 14.4673 30.7972C14.4682 30.7821 14.4685 30.7673 14.4685 30.7523V29.6518C15.9904 30.6148 17.8058 31.132 19.7346 31.132C21.6635 31.132 23.4789 30.6148 25.0007 29.6518V30.7523C25.0007 30.7673 25.001 30.7821 25.0019 30.7972ZM26.9255 21.596L24.8112 23.0059C24.1397 23.4537 23.3579 23.6904 22.5503 23.6904H20.6704C20.0568 23.6904 19.5589 24.188 19.5589 24.8019C19.5589 25.4158 20.0568 25.9134 20.6704 25.9134H22.5503C23.7981 25.9134 25.0065 25.5475 26.0445 24.8552L26.47 24.5715C25.467 27.1594 22.902 28.9091 19.7346 28.9091C15.6352 28.9091 12.5437 25.9785 12.5437 22.0921V13.0815C12.9819 11.0444 13.6166 9.74968 14.3819 9.33462C15.144 8.92071 16.2514 9.35112 17.3224 9.76705C18.1569 10.0909 18.945 10.3972 19.7346 10.3972C20.5314 10.3972 21.31 10.0878 22.1347 9.76039C23.2068 9.33433 24.2195 8.932 24.9698 9.32333C25.5165 9.60843 26.296 10.4962 26.9255 13.0957V21.596ZM32.1124 15.1877V19.9679C32.1124 20.5807 31.6137 21.0794 31.0009 21.0794H29.1485V14.0763H31.0009C31.6137 14.0763 32.1124 14.575 32.1124 15.1877ZM12.2091 5.78459C13.7483 3.97788 16.2801 3.06179 19.7346 3.06179C23.1891 3.06179 25.7209 3.97788 27.2601 5.78459C28.472 7.20721 29.136 9.24692 29.2388 11.8534H28.8978C28.2266 9.4695 27.2952 8.02894 25.9976 7.35222C24.3446 6.49026 22.6641 7.15771 21.3138 7.69434C20.7199 7.93024 20.1057 8.17424 19.7343 8.17424C19.3612 8.17424 18.7337 7.93053 18.127 7.69492C16.729 7.15163 14.9889 6.47578 13.3214 7.38058C12.0641 8.06309 11.1538 9.53086 10.5508 11.8534H10.2304C10.3329 9.24692 10.9972 7.20721 12.2091 5.78459ZM7.35684 19.9679V15.1877C7.35684 14.575 7.85555 14.0763 8.4683 14.0763H10.3207V21.0794H8.4683C7.85555 21.0794 7.35684 20.5807 7.35684 19.9679ZM3.66498 36.0838L12.3729 32.379C12.568 33.5851 13.0525 35.2262 14.2404 36.5536H3.13559C3.25339 36.3478 3.4369 36.1808 3.66498 36.0838ZM25.2288 36.5536C26.4167 35.2262 26.9012 33.5851 27.0963 32.379L35.8042 36.0838C36.0323 36.1808 36.2155 36.3478 36.3336 36.5536H25.2288Z\" fill=\"white\"></path></g><defs><clipPath id=\"clip0_1184_5496\"><rect width=\"37.938\" height=\"37.938\" fill=\"white\" transform=\"translate(0.765625 0.838867)\"></rect></clipPath></defs></svg> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-19e3fb28 e-con-full e-flex e-con e-child\" data-id=\"19e3fb28\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-559dabc elementor-widget elementor-widget-heading\" data-id=\"559dabc\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h5 class=\"elementor-heading-title elementor-size-default\">We’re Here to Help</h5> </div> </div> <div class=\"elementor-element elementor-element-583f0a99 elementor-widget elementor-widget-text-editor\" data-id=\"583f0a99\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>From start to finish, we guide you through every step of the process.</p> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-94cd174 e-con-full e-flex e-con e-child\" data-id=\"94cd174\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-758fec8 e-con-full e-flex e-con e-child\" data-id=\"758fec8\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-element elementor-element-9fb780f e-con-full e-flex e-con e-child\" data-id=\"9fb780f\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-b51d6ab elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"b51d6ab\" data-element_type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <div class=\"elementor-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"43\" height=\"43\" viewBox=\"0 0 43 43\" fill=\"none\"><mask id=\"mask0_1467_6089\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"43\" height=\"43\"><rect x=\"0.816406\" y=\"0.838867\" width=\"42\" height=\"42\" fill=\"#D9D9D9\"></rect></mask><g mask=\"url(#mask0_1467_6089)\"><path d=\"M11.3164 41.0889C10.3539 41.0889 9.52995 40.7462 8.84453 40.0607C8.15911 39.3753 7.81641 38.5514 7.81641 37.5889V6.08887C7.81641 5.12637 8.15911 4.30241 8.84453 3.61699C9.52995 2.93158 10.3539 2.58887 11.3164 2.58887H28.8164C29.7789 2.58887 30.6029 2.93158 31.2883 3.61699C31.9737 4.30241 32.3164 5.12637 32.3164 6.08887V13.0889H28.8164V11.3389H11.3164V32.3389H28.8164V30.5889H32.3164V37.5889C32.3164 38.5514 31.9737 39.3753 31.2883 40.0607C30.6029 40.7462 29.7789 41.0889 28.8164 41.0889H11.3164ZM11.3164 35.8389V37.5889H28.8164V35.8389H11.3164ZM26.9789 28.8389L19.5414 21.4014L21.9914 18.9514L26.9789 23.9389L36.8664 14.0514L39.3164 16.5014L26.9789 28.8389ZM11.3164 7.83887H28.8164V6.08887H11.3164V7.83887Z\" fill=\"white\"></path></g></svg> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-547da4f e-con-full e-flex e-con e-child\" data-id=\"547da4f\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-16621be elementor-widget elementor-widget-heading\" data-id=\"16621be\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h5 class=\"elementor-heading-title elementor-size-default\">We Deliver Results</h5> </div> </div> <div class=\"elementor-element elementor-element-a8c4e5d elementor-widget elementor-widget-text-editor\" data-id=\"a8c4e5d\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>We’re all about real, measurable improvements that make your business better.</p> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-7aa5b38 e-con-full e-flex e-con e-child\" data-id=\"7aa5b38\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"elementor-element elementor-element-a0adfce e-con-full e-flex e-con e-child\" data-id=\"a0adfce\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-ae591ce elementor-view-default elementor-widget elementor-widget-icon\" data-id=\"ae591ce\" data-element_type=\"widget\" data-widget_type=\"icon.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-wrapper\"> <div class=\"elementor-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"43\" height=\"43\" viewBox=\"0 0 43 43\" fill=\"none\"><mask id=\"mask0_1466_6029\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"43\" height=\"43\"><rect x=\"0.765625\" y=\"0.838867\" width=\"42\" height=\"42\" fill=\"#D9D9D9\"></rect></mask><g mask=\"url(#mask0_1466_6029)\"><path d=\"M14.7656 25.3389H28.7656V24.3764C28.7656 23.093 28.124 22.0576 26.8406 21.2701C25.5573 20.4826 23.8656 20.0889 21.7656 20.0889C19.6656 20.0889 17.974 20.4826 16.6906 21.2701C15.4073 22.0576 14.7656 23.093 14.7656 24.3764V25.3389ZM21.7656 18.3389C22.7281 18.3389 23.5521 17.9962 24.2375 17.3107C24.9229 16.6253 25.2656 15.8014 25.2656 14.8389C25.2656 13.8764 24.9229 13.0524 24.2375 12.367C23.5521 11.6816 22.7281 11.3389 21.7656 11.3389C20.8031 11.3389 19.9792 11.6816 19.2938 12.367C18.6083 13.0524 18.2656 13.8764 18.2656 14.8389C18.2656 15.8014 18.6083 16.6253 19.2938 17.3107C19.9792 17.9962 20.8031 18.3389 21.7656 18.3389ZM4.26562 39.3389V7.83887C4.26562 6.87637 4.60833 6.05241 5.29375 5.36699C5.97917 4.68158 6.80312 4.33887 7.76562 4.33887H35.7656C36.7281 4.33887 37.5521 4.68158 38.2375 5.36699C38.9229 6.05241 39.2656 6.87637 39.2656 7.83887V28.8389C39.2656 29.8014 38.9229 30.6253 38.2375 31.3107C37.5521 31.9962 36.7281 32.3389 35.7656 32.3389H11.2656L4.26562 39.3389ZM9.77813 28.8389H35.7656V7.83887H7.76562V30.8076L9.77813 28.8389Z\" fill=\"white\"></path></g></svg> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-6a5faec e-con-full e-flex e-con e-child\" data-id=\"6a5faec\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-abb29cd elementor-widget elementor-widget-heading\" data-id=\"abb29cd\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h5 class=\"elementor-heading-title elementor-size-default\">We Stay By Your Side</h5> </div> </div> <div class=\"elementor-element elementor-element-9f2ab6b elementor-widget elementor-widget-text-editor\" data-id=\"9f2ab6b\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Even after the project is done, we’ll be there to support you when you need us.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div>",
+    "elementorId": "18545",
+    "sections": [],
+    "headings": [
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "TechnoCIT: Making Digital Transformation Simple",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "Digital. Innovative. Creative",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "Create a Clear Digital Plan",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "Here’s how we do it:",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "Simplify Your Work Processes",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "What we’ll do:",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "Find & Setup the Right Tools",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "What you can expect:",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "Use Your Data to Make Better Decisions",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "Here’s how we help:",
+        "id": null
+      },
+      {
+        "level": 2,
+        "tag": "h2",
+        "text": "Why Choose TechnoCIT?",
+        "id": null
+      },
+      {
+        "level": 5,
+        "tag": "h5",
+        "text": "When you work with us, you’re not just hiring a company—you’re teaming up with people who care about your success.",
+        "id": null
+      },
+      {
+        "level": 5,
+        "tag": "h5",
+        "text": "We Make It Easy",
+        "id": null
+      },
+      {
+        "level": 5,
+        "tag": "h5",
+        "text": "We Focus on You",
+        "id": null
+      },
+      {
+        "level": 5,
+        "tag": "h5",
+        "text": "We’re Here to Help",
+        "id": null
+      },
+      {
+        "level": 5,
+        "tag": "h5",
+        "text": "We Deliver Results",
+        "id": null
+      },
+      {
+        "level": 5,
+        "tag": "h5",
+        "text": "We Stay By Your Side",
+        "id": null
+      }
+    ],
+    "paragraphs": [
+      "Going digital doesn’t have to be overwhelming. At TechnoCIT, we help businesses like yours make the shift to digital in a clear, straightforward way. Whether you need a plan, better tools, or a way to simplify your daily tasks, we’re here to guide you.",
+      "We focus on what works best for your business, cutting through the complexity to deliver real results",
+      "A good plan helps you know where to start and what to focus on. We work with you to create a simple, step-by-step strategy that makes sense for your business.",
+      "Struggling with outdated systems or repetitive tasks? We help you make your work faster and easier by streamlining your processes.",
+      "Technology should help, not confuse. We guide you in choosing the best tools for your business and make sure they fit in seamlessly with what you already use.",
+      "Your business creates valuable data every day—are you using it? We help you turn your numbers into insights that guide smarter decisions.",
+      "We break everything down into simple steps, so it’s easy to follow and stress-free.",
+      "Your business is unique, and we tailor everything to meet your specific needs.",
+      "From start to finish, we guide you through every step of the process.",
+      "We’re all about real, measurable improvements that make your business better.",
+      "Even after the project is done, we’ll be there to support you when you need us."
+    ],
+    "images": [
+      {
+        "src": "/static/images/2025/01/Digital-plan.png",
+        "alt": "Create a Clear Digital Plan",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/static/images/2025/01/Work-process.png",
+        "alt": "Simplify Your Work Processes",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/static/images/2025/01/Right-tools.png",
+        "alt": "Find & Setup the Right Tools",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/static/images/2025/01/Data.png",
+        "alt": "Use Your Data to Make Better Decisions",
+        "width": 600,
+        "height": 600
+      }
+    ],
+    "links": []
+  },
+  "styles": {
+    "inline": [
+      {
+        "id": "wp-img-auto-sizes-contain-inline-css",
+        "content": "img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */"
+      },
+      {
+        "id": "wp-emoji-styles-inline-css",
+        "content": "img.wp-smiley, img.emoji {\ndisplay: inline !important;\nborder: none !important;\nbox-shadow: none !important;\nheight: 1em !important;\nwidth: 1em !important;\nmargin: 0 0.07em !important;\nvertical-align: -0.1em !important;\nbackground: none !important;\npadding: 0 !important;\n}\n/*# sourceURL=wp-emoji-styles-inline-css */"
+      },
+      {
+        "id": "",
+        "content": ""
+      },
+      {
+        "id": "wp-custom-css",
+        "content": ".scroll-part .elementor-widget-icon-list {\nposition: sticky;\ntop: 135px;\n}\n.scroll-img .elementor-widget-image {\nposition: sticky;\ntop: 120px;\n}"
+      },
+      {
+        "id": "global-styles-inline-css",
+        "content": ":root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n/*# sourceURL=global-styles-inline-css */"
+      },
+      {
+        "id": "body-style-0",
+        "content": ".elementor-3080 .elementor-element.elementor-element-433ca67c{--display:flex;--min-height:60px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:1%;--padding-bottom:1%;--padding-left:8%;--padding-right:8%;--z-index:95;}.elementor-3080 .elementor-element.elementor-element-433ca67c:not(.elementor-motion-effects-element-type-background), .elementor-3080 .elementor-element.elementor-element-433ca67c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3080 .elementor-element.elementor-element-7e925246{text-align:left;}.elementor-3080 .elementor-element.elementor-element-7e925246 img{width:100%;height:60px;object-fit:contain;object-position:center center;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-menu-toggle{margin-left:auto;background-color:#02010100;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu .elementor-item{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item{color:#1C244B;fill:#1C244B;padding-left:0px;padding-right:0px;padding-top:5px;padding-bottom:5px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item:hover,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.elementor-item-active,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.highlighted,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item:focus{color:#324A6D;fill:#324A6D;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#324A6D;}.elementor-3080 .elementor-element.elementor-element-609ca708{--e-nav-menu-horizontal-menu-item-margin:calc( 30px / 2 );}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:30px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-menu-toggle{color:#1C244B;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown{background-color:#F3F5F8;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a:hover,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.elementor-item-active,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.highlighted{background-color:#F9FAFD;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.elementor-item-active{background-color:#F9FAFD;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown .elementor-item, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;letter-spacing:0px;}.elementor-3080 .elementor-element.elementor-element-609ca708 div.elementor-menu-toggle{color:#467FF7;}.elementor-3080 .elementor-element.elementor-element-609ca708 div.elementor-menu-toggle svg{fill:#467FF7;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button-content-wrapper{flex-direction:row-reverse;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button .elementor-button-content-wrapper{gap:5px;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button{font-weight:600;border-radius:30px 30px 30px 30px;}@media(max-width:1024px){.elementor-3080 .elementor-element.elementor-element-433ca67c{--padding-top:0%;--padding-bottom:0%;--padding-left:5%;--padding-right:5%;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu .elementor-item{font-size:14px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown .elementor-item, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:14px;}}@media(max-width:767px){.elementor-3080 .elementor-element.elementor-element-433ca67c{--min-height:50px;--padding-top:2%;--padding-bottom:2%;--padding-left:2%;--padding-right:2%;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a{padding-top:14px;padding-bottom:14px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:15px !important;}.elementor-3080 .elementor-element.elementor-element-609ca708{--nav-menu-icon-size:20px;}}"
+      },
+      {
+        "id": "body-style-1",
+        "content": ".elementor-3084 .elementor-element.elementor-element-f69d561{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 20px;--row-gap:0px;--column-gap:20px;--flex-wrap:wrap;--padding-top:80px;--padding-bottom:50px;--padding-left:20px;--padding-right:20px;}.elementor-3084 .elementor-element.elementor-element-f69d561:not(.elementor-motion-effects-element-type-background), .elementor-3084 .elementor-element.elementor-element-f69d561 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-d09e2c5 );}.elementor-3084 .elementor-element.elementor-element-28cb51e{--display:flex;--gap:32px 32px;--row-gap:32px;--column-gap:32px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-157b228{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--gap:12px 0px;--row-gap:12px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-157b228.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-3084 .elementor-element.elementor-element-084bedf{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-item > a{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-text{color:#133D8D;transition:color 0.3s;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--gap:0px 40px;--row-gap:0px;--column-gap:40px;--flex-wrap:nowrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ad7372a{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:12px 20px;--row-gap:12px;--column-gap:20px;--flex-wrap:wrap;--align-content:center;--padding-top:0px;--padding-bottom:20px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-566892a{column-gap:0px;text-align:center;color:var( --e-global-color-accent );font-family:\"Lato\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;}.elementor-3084 .elementor-element.elementor-element-566892a p{margin-bottom:0px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 9px 0px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-9ad6109{--divider-border-style:solid;--divider-color:var( --e-global-color-secondary );--divider-border-width:1px;}.elementor-3084 .elementor-element.elementor-element-9ad6109 .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-3084 .elementor-element.elementor-element-9ad6109 .elementor-divider{text-align:center;padding-block-start:10px;padding-block-end:10px;}.elementor-3084 .elementor-element.elementor-element-1ba6504{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-e3e9df0{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-413d589 img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-f7678c6 img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-c61703f img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-952cb0f img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-91756d8{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-76d23b0{column-gap:0px;text-align:right;color:var( --e-global-color-accent );font-family:\"Lato\", Sans-serif;font-weight:400;line-height:32px;}.elementor-3084 .elementor-element.elementor-element-76d23b0 p{margin-bottom:0px;}@media(min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--width:100%;}}@media(max-width:1200px) and (min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--width:100%;}.elementor-3084 .elementor-element.elementor-element-ad7372a{--width:100%;}}@media(max-width:880px) and (min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}}@media(max-width:767px){.elementor-3084 .elementor-element.elementor-element-f69d561{--padding-top:40px;--padding-bottom:40px;--padding-left:20px;--padding-right:20px;}.elementor-3084 .elementor-element.elementor-element-157b228{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-3084 .elementor-element.elementor-element-d9be598{text-align:center;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;}.elementor-3084 .elementor-element.elementor-element-372758e{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-55b03bf{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-ae89519{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-566892a{text-align:center;}.elementor-3084 .elementor-element.elementor-element-1ba6504.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-e3e9df0{--justify-content:center;}.elementor-3084 .elementor-element.elementor-element-e3e9df0.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-413d589 img{height:32px;}.elementor-3084 .elementor-element.elementor-element-f7678c6 img{height:32px;}.elementor-3084 .elementor-element.elementor-element-c61703f img{height:32px;}.elementor-3084 .elementor-element.elementor-element-952cb0f img{height:32px;}.elementor-3084 .elementor-element.elementor-element-91756d8.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-76d23b0{text-align:center;}}"
+      }
+    ],
+    "external": [
+      {
+        "href": "/static/css/plugins/contact-form-7/includes/css/styles.css",
+        "id": "contact-form-7-css"
+      },
+      {
+        "href": "/static/css/plugins/the-preloader/css/templates/image.css",
+        "id": "the_preloader_template-css"
+      },
+      {
+        "href": "/static/css/plugins/animation-addons-for-elementor/assets/css/wcf-addons.min.css",
+        "id": "wcf--addons-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/style.min.css",
+        "id": "hello-elementor-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/theme.min.css",
+        "id": "hello-elementor-theme-style-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/header-footer.min.css",
+        "id": "hello-elementor-header-footer-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-frontend.min.css",
+        "id": "elementor-frontend-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3.css",
+        "id": "elementor-post-3-css"
+      },
+      {
+        "href": "/static/css/plugins/newsletter/style.css",
+        "id": "newsletter-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-widget-icon-list.min.css",
+        "id": "widget-icon-list-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-heading.min.css",
+        "id": "widget-heading-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-text-editor.min.css",
+        "id": "widget-text-editor-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css",
+        "id": "e-animation-slideInUp-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-image.min.css",
+        "id": "widget-image-css"
+      },
+      {
+        "href": "/static/css/elementor/post-18545.css",
+        "id": "elementor-post-18545-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3080.css",
+        "id": "elementor-post-3080-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-pro-widget-nav-menu.min.css",
+        "id": "widget-nav-menu-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor-pro/assets/css/modules/sticky.min.css",
+        "id": "e-sticky-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3084.css",
+        "id": "elementor-post-3084-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-divider.min.css",
+        "id": "widget-divider-css"
+      }
+    ]
+  },
+  "extractedAt": "2025-12-29T13:49:58.530Z"
+}

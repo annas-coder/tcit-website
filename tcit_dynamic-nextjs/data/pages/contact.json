@@ -1,0 +1,371 @@
+{
+  "slug": "contact",
+  "path": "/contact",
+  "metadata": {
+    "title": "Contact | TechnoCIT Software Solutions",
+    "description": "TechnoCIT is a modern solution for your business. A trusted one-stop shop for all your web and digital needs, at the forefront of software development and digital strategy, delivering solutions that yield greater results.",
+    "canonical": "../contact/",
+    "og": {
+      "locale": "en_US",
+      "type": "article",
+      "title": "Contact | TechnoCIT Software Solutions",
+      "description": "TechnoCIT is a modern solution for your business. A trusted one-stop shop for all your web and digital needs, at the forefront of software development and digital strategy, delivering solutions that yield greater results.",
+      "url": "../contact/",
+      "updated_time": "2025-03-17T11:35:09+00:00",
+      "image": "../wp-content/uploads/2025/01/Contact-Image.png",
+      "image:secure_url": "../wp-content/uploads/2025/01/Contact-Image.png",
+      "image:width": "725",
+      "image:height": "814",
+      "image:alt": "Contact TechnoCIT",
+      "image:type": "image/png"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Contact | TechnoCIT Software Solutions",
+      "description": "TechnoCIT is a modern solution for your business. A trusted one-stop shop for all your web and digital needs, at the forefront of software development and digital strategy, delivering solutions that yield greater results.",
+      "image": "../wp-content/uploads/2025/01/Contact-Image.png",
+      "label1": "Time to read",
+      "data1": "Less than a minute"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "../#organization",
+          "name": "TechnoCIT Software Solutions",
+          "url": "../",
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "../#logo",
+            "url": "../wp-content/uploads/2024/05/Logo.svg",
+            "contentUrl": "../wp-content/uploads/2024/05/Logo.svg",
+            "inLanguage": "en-US"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "../#website",
+          "url": "../",
+          "publisher": {
+            "@id": "../#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "../wp-content/uploads/2025/01/Contact-Image.png",
+          "url": "../wp-content/uploads/2025/01/Contact-Image.png",
+          "width": "200",
+          "height": "200",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "../contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "../",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "../contact/",
+                "name": "Contact | TechnoCIT Software Solutions"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "../contact/#webpage",
+          "url": "../contact/",
+          "name": "Contact | TechnoCIT Software Solutions",
+          "datePublished": "2025-02-17T11:25:03+00:00",
+          "dateModified": "2025-03-17T11:35:09+00:00",
+          "isPartOf": {
+            "@id": "../#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "../wp-content/uploads/2025/01/Contact-Image.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "../contact/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "../author/mathan/",
+          "name": "Mathan Kannan",
+          "url": "../author/mathan/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/7972a1fd6e47b96fba16b023aeace4b61a397d03eb1ae37d2283d84e3027d542?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/7972a1fd6e47b96fba16b023aeace4b61a397d03eb1ae37d2283d84e3027d542?s=96&amp;d=mm&amp;r=g",
+            "caption": "Mathan Kannan",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "../#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Contact | TechnoCIT Software Solutions",
+          "keywords": "Software Development Company",
+          "datePublished": "2025-02-17T11:25:03+00:00",
+          "dateModified": "2025-03-17T11:35:09+00:00",
+          "author": {
+            "@id": "../author/mathan/",
+            "name": "Mathan Kannan"
+          },
+          "publisher": {
+            "@id": "../#organization"
+          },
+          "description": "TechnoCIT is a modern solution for your business. A trusted one-stop shop for all your web and digital needs, at the forefront of software development and digital strategy, delivering solutions that yield greater results.",
+          "name": "Contact | TechnoCIT Software Solutions",
+          "@id": "../contact/#richSnippet",
+          "isPartOf": {
+            "@id": "../contact/#webpage"
+          },
+          "image": {
+            "@id": "../wp-content/uploads/2025/01/Contact-Image.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "../contact/#webpage"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "Our Works",
+      "href": "/our-works/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us-2/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    },
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services/"
+    },
+    {
+      "label": "Our Works",
+      "href": "/our-works/"
+    },
+    {
+      "label": "About Us",
+      "href": "/about-us-2/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    }
+  ],
+  "content": {
+    "html": "<div data-elementor-type=\"wp-page\" data-elementor-id=\"17502\" class=\"elementor elementor-17502\" data-elementor-post-type=\"page\"> <div class=\"elementor-element elementor-element-29643ab8 e-flex e-con-boxed e-con e-parent\" data-id=\"29643ab8\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-41b58518 e-con-full e-flex e-con e-child\" data-id=\"41b58518\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-25b60f49 e-con-full e-flex e-con e-child\" data-id=\"25b60f49\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-b63b24c e-flex e-con-boxed e-con e-child\" data-id=\"b63b24c\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-3efe2e4 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list\" data-id=\"3efe2e4\" data-element_type=\"widget\" data-widget_type=\"icon-list.default\"> <div class=\"elementor-widget-container\"> <ul class=\"elementor-icon-list-items\"> <li class=\"elementor-icon-list-item\"> <span class=\"elementor-icon-list-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"19\" height=\"14\" viewBox=\"0 0 19 14\" fill=\"none\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18.9169 0.808643L14.1871 13.814L11.8223 13.814L16.5522 0.808594L18.9169 0.808643Z\" fill=\"#B0CBEA\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.1886 0.809326L9.45976 13.8146L6.50391 13.8143L11.2337 0.809327L14.1886 0.809326Z\" fill=\"#4E84C4\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8.86731 0.809326L4.13837 13.8146L0 13.8147L4.72913 0.809326L8.86731 0.809326Z\" fill=\"#133D8D\"></path></svg> </span> <span class=\"elementor-icon-list-text\">Contact Us</span> </li> </ul> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-6bcaf518 elementor-widget elementor-widget-heading\" data-id=\"6bcaf518\" data-element_type=\"widget\" data-widget_type=\"heading.default\"> <div class=\"elementor-widget-container\"> <h1 class=\"elementor-heading-title elementor-size-default\"><a href=\"#Service-1\">Let's Build Something Great</a></h1> </div> </div> <div class=\"elementor-element elementor-element-7d287ef3 elementor-widget elementor-widget-text-editor\" data-id=\"7d287ef3\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"> <div class=\"elementor-widget-container\"> <p>Ready to take the next step? Reach out to us today and let’s turn your vision into reality.</p> </div> </div> <div class=\"elementor-element elementor-element-7087f3dc elementor-button-align-stretch elementor-widget elementor-widget-form\" data-id=\"7087f3dc\" data-element_type=\"widget\" data-settings=\"{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}\" data-widget_type=\"form.default\"> <div class=\"elementor-widget-container\"> <form class=\"elementor-form\" method=\"post\" name=\"New Form\"> <input type=\"hidden\" name=\"post_id\" value=\"17502\"> <input type=\"hidden\" name=\"form_id\" value=\"7087f3dc\"> <input type=\"hidden\" name=\"referer_title\" value=\"Contact | TechnoCIT Software Solutions\"> <input type=\"hidden\" name=\"queried_id\" value=\"17502\"> <div class=\"elementor-form-fields-wrapper elementor-labels-above\"> <div class=\"elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required elementor-mark-required\"> <label for=\"form-field-name\" class=\"elementor-field-label\"> Full Name </label> <input size=\"1\" type=\"text\" name=\"form_fields[name]\" id=\"form-field-name\" class=\"elementor-field elementor-size-sm elementor-field-textual\" placeholder=\"Enter Your Name\" required=\"required\"> </div> <div class=\"elementor-field-type-email elementor-field-group elementor-column elementor-field-group-field_429b99c elementor-col-100 elementor-field-required elementor-mark-required\"> <label for=\"form-field-field_429b99c\" class=\"elementor-field-label\"> E-mail </label> <input size=\"1\" type=\"email\" name=\"form_fields[field_429b99c]\" id=\"form-field-field_429b99c\" class=\"elementor-field elementor-size-sm elementor-field-textual\" placeholder=\"Enter E-mail\" required=\"required\"> </div> <div class=\"elementor-field-type-number elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required elementor-mark-required\"> <label for=\"form-field-email\" class=\"elementor-field-label\"> Contact Number </label> <input type=\"number\" name=\"form_fields[email]\" id=\"form-field-email\" class=\"elementor-field elementor-size-sm elementor-field-textual\" placeholder=\"Contact Number\" required=\"required\" min=\"\" max=\"\"> </div> <div class=\"elementor-field-type-select elementor-field-group elementor-column elementor-field-group-field_eee492f elementor-col-100 elementor-field-required elementor-mark-required\"> <label for=\"form-field-field_eee492f\" class=\"elementor-field-label\"> Interested in </label> <div class=\"elementor-field elementor-select-wrapper remove-before \"> <div class=\"select-caret-down-wrapper\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-eicon-caret-down\" viewBox=\"0 0 571.4 571.4\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M571 393Q571 407 561 418L311 668Q300 679 286 679T261 668L11 418Q0 407 0 393T11 368 36 357H536Q550 357 561 368T571 393Z\"></path></svg> </div> <select name=\"form_fields[field_eee492f]\" id=\"form-field-field_eee492f\" class=\"elementor-field-textual elementor-size-sm\" required=\"required\"> <option value=\"Website Design\">Website Design</option> <option value=\"Branding Style Guide\">Branding Style Guide</option> <option value=\"Digital Marketing\">Digital Marketing</option> <option value=\"Content Management\">Content Management</option> <option value=\"Mobile Application\">Mobile Application</option> <option value=\"General Enquiry\">General Enquiry</option> </select> </div> </div> <div class=\"elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100\"> <label for=\"form-field-message\" class=\"elementor-field-label\"> Message </label> <textarea class=\"elementor-field-textual elementor-field elementor-size-sm\" name=\"form_fields[message]\" id=\"form-field-message\" rows=\"4\" placeholder=\"Message (Optional)\"></textarea> </div> <div class=\"elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons\"> <button class=\"elementor-button elementor-size-lg\" type=\"submit\"> <span class=\"elementor-button-content-wrapper\"> <span class=\"elementor-button-icon\"> <svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-arrow-right\" viewBox=\"0 0 448 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z\"></path></svg> </span> <span class=\"elementor-button-text\">Submit</span> </span> </button> </div> </div> </form> </div> </div> </div> <div class=\"elementor-element elementor-element-355c398d e-con-full e-flex e-con e-child\" data-id=\"355c398d\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-6a080cfe elementor-widget elementor-widget-image\" data-id=\"6a080cfe\" data-element_type=\"widget\" data-widget_type=\"image.default\"> <div class=\"elementor-widget-container\"> <img fetchpriority=\"high\" decoding=\"async\" width=\"725\" height=\"814\" src=\"/static/images/2025/01/Contact-Image.png\" class=\"attachment-full size-full wp-image-17481\" alt=\"Contact TechnoCIT\" srcset=\"/static/images/2025/01/Contact-Image.png 725w, /static/images/2025/01/Contact-Image-267x300.png 267w\" sizes=\"(max-width: 725px) 100vw, 725px\"> </div> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-1a73849f e-flex e-con-boxed e-con e-parent\" data-id=\"1a73849f\" data-element_type=\"container\"> <div class=\"e-con-inner\"> <div class=\"elementor-element elementor-element-4ca2282b e-con-full e-flex e-con e-child\" data-id=\"4ca2282b\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-1c5a77ac e-con-full e-flex e-con e-child\" data-id=\"1c5a77ac\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-197688b6 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box\" data-id=\"197688b6\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-box-wrapper\"> <div class=\"elementor-icon-box-icon\"> <a href=\"mailto:info@technocit.com\" class=\"elementor-icon\" tabindex=\"-1\" aria-label=\"Email\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"49\" height=\"49\" viewBox=\"0 0 49 49\" fill=\"none\"><g clip-path=\"url(#clip0_901_22590)\"><path d=\"M44.7422 7.41724H5.17969C2.85825 7.41724 0.960938 9.30621 0.960938 11.636V36.9485C0.960938 39.2791 2.85947 41.1672 5.17969 41.1672H44.7422C47.0637 41.1672 48.961 39.2783 48.961 36.9485V11.636C48.961 9.30564 47.0627 7.41724 44.7422 7.41724ZM44.0944 10.2297C42.7305 11.5982 26.7089 27.6719 26.0507 28.3323C25.501 28.8837 24.4212 28.8841 23.8712 28.3323L5.82751 10.2297H44.0944ZM3.77344 36.4315V12.153L15.8733 24.2922L3.77344 36.4315ZM5.82751 38.3547L17.8588 26.2842L21.8793 30.3178C23.5269 31.9707 26.3957 31.9701 28.0427 30.3178L32.0632 26.2843L44.0944 38.3547H5.82751ZM46.1485 36.4315L34.0486 24.2922L46.1485 12.153V36.4315Z\" fill=\"#133D8D\"></path></g><defs><clipPath id=\"clip0_901_22590\"><rect width=\"48.0001\" height=\"48\" fill=\"white\" transform=\"translate(0.964844 0.291748)\"></rect></clipPath></defs></svg> </a> </div> <div class=\"elementor-icon-box-content\"> <h6 class=\"elementor-icon-box-title\"> <a href=\"mailto:info@technocit.com\"> Email </a> </h6> <p class=\"elementor-icon-box-description\"> info@technocit.com </p> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-52ab02ad e-con-full e-flex e-con e-child\" data-id=\"52ab02ad\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-4ece0721 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box\" data-id=\"4ece0721\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-box-wrapper\"> <div class=\"elementor-icon-box-icon\"> <a href=\"tel:+971%204%20564%207409\" class=\"elementor-icon\" tabindex=\"-1\" aria-label=\"Contact Number\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"49\" viewBox=\"0 0 48 49\" fill=\"none\"><g clip-path=\"url(#clip0_901_22601)\"><path d=\"M37.8455 30.2203C36.8628 29.1971 35.6775 28.6501 34.4213 28.6501C33.1752 28.6501 31.9798 29.187 30.9566 30.2102L27.7553 33.4014C27.4919 33.2595 27.2285 33.1278 26.9752 32.9961C26.6105 32.8138 26.2661 32.6416 25.9723 32.4592C22.9736 30.5546 20.2484 28.0726 17.6347 24.8612C16.3684 23.2605 15.5174 21.9131 14.8994 20.5455C15.7301 19.7857 16.5001 18.9955 17.2498 18.2357C17.5334 17.952 17.8171 17.6582 18.1007 17.3746C20.2282 15.2471 20.2282 12.4915 18.1007 10.3641L15.335 7.5984C15.021 7.28435 14.6968 6.96017 14.3929 6.63598C13.785 6.00788 13.1468 5.35951 12.4883 4.75167C11.5056 3.77912 10.3305 3.26245 9.09452 3.26245C7.85857 3.26245 6.66314 3.77912 5.65007 4.75167C5.63994 4.7618 5.63994 4.7618 5.62981 4.77193L2.18537 8.24677C0.888633 9.5435 0.14909 11.1239 -0.0130011 12.9576C-0.256138 15.9157 0.615104 18.6713 1.28373 20.4746C2.92491 24.9017 5.37654 29.0046 9.03373 33.4014C13.471 38.6997 18.8099 42.8837 24.9086 45.8318C27.2386 46.936 30.3488 48.2429 33.8236 48.4658C34.0364 48.4759 34.2592 48.486 34.4618 48.486C36.802 48.486 38.7674 47.6452 40.3073 45.9736C40.3174 45.9533 40.3377 45.9432 40.3478 45.923C40.8746 45.2847 41.4824 44.7073 42.1207 44.0893C42.5563 43.6739 43.002 43.2383 43.4377 42.7824C44.4406 41.739 44.9674 40.5233 44.9674 39.2772C44.9674 38.021 44.4305 36.8154 43.4073 35.8024L37.8455 30.2203ZM41.4723 40.888C41.4622 40.8981 41.4622 40.888 41.4723 40.888C41.0772 41.3135 40.672 41.6984 40.2364 42.1239C39.5779 42.752 38.9092 43.4105 38.2811 44.1501C37.2579 45.2442 36.0524 45.7609 34.472 45.7609C34.32 45.7609 34.1579 45.7609 34.006 45.7507C30.9971 45.5582 28.2011 44.3831 26.104 43.3801C20.37 40.6043 15.335 36.6635 11.1511 31.669C7.69648 27.5053 5.38667 23.6556 3.85694 19.5223C2.91478 16.9997 2.57033 15.0344 2.72229 13.1804C2.8236 11.9951 3.27948 11.0125 4.12033 10.1716L7.57491 6.71703C8.07132 6.25102 8.59811 5.99775 9.11478 5.99775C9.75302 5.99775 10.2697 6.38272 10.5939 6.7069C10.604 6.71703 10.6141 6.72716 10.6243 6.73729C11.2422 7.31474 11.8298 7.91246 12.4478 8.55069C12.7618 8.87488 13.086 9.19906 13.4102 9.53337L16.1759 12.2991C17.2497 13.3729 17.2497 14.3657 16.1759 15.4396C15.8821 15.7334 15.5984 16.0272 15.3047 16.3108C14.4537 17.1821 13.6432 17.9925 12.7618 18.7827C12.7416 18.803 12.7213 18.8131 12.7112 18.8334C11.8399 19.7046 12.002 20.5556 12.1844 21.1331C12.1945 21.1634 12.2047 21.1938 12.2148 21.2242C12.9341 22.9667 13.9471 24.6079 15.487 26.5631L15.4971 26.5733C18.2932 30.0177 21.2413 32.7023 24.4932 34.7589C24.9086 35.0223 25.3341 35.235 25.7393 35.4376C26.104 35.62 26.4484 35.7922 26.7422 35.9746C26.7828 35.9948 26.8233 36.0252 26.8638 36.0455C27.2082 36.2177 27.5324 36.2988 27.8667 36.2988C28.7076 36.2988 29.2344 35.772 29.4066 35.5997L32.8713 32.135C33.2158 31.7906 33.7628 31.3752 34.4011 31.3752C35.0292 31.3752 35.5458 31.7703 35.8599 32.1148C35.87 32.1249 35.87 32.1249 35.8801 32.135L41.4622 37.7171C42.5056 38.7504 42.5056 39.8141 41.4723 40.888Z\" fill=\"#133D8D\"></path><path d=\"M25.8172 11.903C28.4714 12.3488 30.8825 13.605 32.8074 15.5298C34.7322 17.4547 35.9783 19.8658 36.4342 22.52C36.5456 23.1887 37.123 23.6547 37.7815 23.6547C37.8626 23.6547 37.9335 23.6445 38.0145 23.6344C38.7642 23.5128 39.2606 22.8037 39.1391 22.054C38.592 18.8426 37.0724 15.9148 34.7525 13.5949C32.4325 11.2749 29.5047 9.75531 26.2933 9.20825C25.5436 9.08668 24.8446 9.58309 24.7129 10.3226C24.5812 11.0622 25.0675 11.7815 25.8172 11.903Z\" fill=\"#133D8D\"></path><path d=\"M47.8353 21.6601C46.9337 16.3719 44.4415 11.5598 40.6121 7.73039C36.7827 3.90097 31.9706 1.40881 26.6823 0.507179C25.9428 0.375479 25.2437 0.882016 25.112 1.62156C24.9905 2.37123 25.4869 3.07025 26.2366 3.20195C30.9575 4.00228 35.263 6.24117 38.6872 9.65523C42.1114 13.0794 44.3402 17.385 45.1405 22.1059C45.252 22.7745 45.8294 23.2405 46.4879 23.2405C46.569 23.2405 46.6399 23.2304 46.7209 23.2203C47.4605 23.1088 47.967 22.3997 47.8353 21.6601Z\" fill=\"#133D8D\"></path></g><defs><clipPath id=\"clip0_901_22601\"><rect width=\"48.0001\" height=\"48\" fill=\"white\" transform=\"translate(0 0.489502)\"></rect></clipPath></defs></svg> </a> </div> <div class=\"elementor-icon-box-content\"> <h6 class=\"elementor-icon-box-title\"> <a href=\"tel:+971%204%20564%207409\"> Contact Number </a> </h6> <p class=\"elementor-icon-box-description\"> +971 4 564 7409 </p> </div> </div> </div> </div> </div> <div class=\"elementor-element elementor-element-b1b887f e-con-full e-flex e-con e-child\" data-id=\"b1b887f\" data-element_type=\"container\"> <div class=\"elementor-element elementor-element-309f4990 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box\" data-id=\"309f4990\" data-element_type=\"widget\" data-widget_type=\"icon-box.default\"> <div class=\"elementor-widget-container\"> <div class=\"elementor-icon-box-wrapper\"> <div class=\"elementor-icon-box-icon\"> <span class=\"elementor-icon\"> <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\" fill=\"none\"><path d=\"M24.0185 2.99731C15.752 2.99731 9.01562 9.73692 9.01562 18.0034C9.01562 23.8963 12.5703 30.3579 16.0117 35.52C19.4531 40.682 22.8994 44.4993 22.8994 44.4993C23.0401 44.6551 23.2118 44.7795 23.4036 44.8647C23.5953 44.95 23.8028 44.9942 24.0127 44.9942C24.2225 44.9942 24.43 44.95 24.6218 44.8647C24.8136 44.7795 24.9853 44.6551 25.126 44.4993C25.126 44.4993 28.572  3 40.682 32.0137 35.52C35.455 30.3579 39.0097 23.8963 39.0097 18.0034C39.0097 9.73692 32.285 2.99731 24.0185 2.99731ZM24.0185 5.99736C30.6637 5.99736 36.0097 11.3582 36.0097 18.0034C36.0097 22.6106 32.8291 28.8957 29.5205 33.8587C26.7687 37.9863 24.8668 40.072 24.0185 41.0453C23.1722 40.0742 21.2672 37.9889 18.5137 33.8587C15.205 28.8957 12.0156 22.6106 12.0156 18.0034C12.0156 11.3582 17.3734 5.99736 24.0185 5.99736ZM24.0185 12.0006C20.7226 12.0006 18.0156 14.7075 18.0156 18.0034C18.0156 21.2993 20.7226 24.0032 24.0185 24.0032C27.3145 24.0032 30.0185 21.2993 30.0185 18.0034C30.0185 14.7075 27.3145 12.0006 24.0185 12.0006ZM24.0185 15.0003C25.6932 15.0003 27.0185 16.3288 27.0185 18.0034C27.0185 19.678 25.6932 21.0032 24.0185 21.0031C22.3439 21.0032 21.0185 19.678 21.0185 18.0034C21.0185 16.3288 22.3439 15.0003 24.0185 15.0003Z\" fill=\"#133D8D\"></path></svg> </span> </div> <div class=\"elementor-icon-box-content\"> <h6 class=\"elementor-icon-box-title\"> <span> Address </span> </h6> <p class=\"elementor-icon-box-description\"> 303, Saheel Tower 2, Al Nahda 1, P.O.Box: 115387, Dubai, UAE </p> </div> </div> </div> </div> </div> </div> </div> </div> </div>",
+    "elementorId": "17502",
+    "sections": [],
+    "headings": [
+      {
+        "level": 1,
+        "tag": "h1",
+        "text": "Let's Build Something Great",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "Email",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "Contact Number",
+        "id": null
+      },
+      {
+        "level": 6,
+        "tag": "h6",
+        "text": "Address",
+        "id": null
+      }
+    ],
+    "paragraphs": [
+      "Ready to take the next step? Reach out to us today and let’s turn your vision into reality.",
+      "303, Saheel Tower 2, Al Nahda 1, P.O.Box: 115387, Dubai, UAE"
+    ],
+    "images": [
+      {
+        "src": "/static/images/2025/01/Contact-Image.png",
+        "alt": "Contact TechnoCIT",
+        "width": 725,
+        "height": 814
+      }
+    ],
+    "links": [
+      {
+        "href": "mailto:info@technocit.com",
+        "text": "mailto:info@technocit.com"
+      },
+      {
+        "href": "mailto:info@technocit.com",
+        "text": "Email"
+      },
+      {
+        "href": "tel:+971%204%20564%207409",
+        "text": "tel:+971%204%20564%207409"
+      },
+      {
+        "href": "tel:+971%204%20564%207409",
+        "text": "Contact Number"
+      }
+    ]
+  },
+  "styles": {
+    "inline": [
+      {
+        "id": "wp-img-auto-sizes-contain-inline-css",
+        "content": "img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inline-css */"
+      },
+      {
+        "id": "wp-emoji-styles-inline-css",
+        "content": "img.wp-smiley, img.emoji {\ndisplay: inline !important;\nborder: none !important;\nbox-shadow: none !important;\nheight: 1em !important;\nwidth: 1em !important;\nmargin: 0 0.07em !important;\nvertical-align: -0.1em !important;\nbackground: none !important;\npadding: 0 !important;\n}\n/*# sourceURL=wp-emoji-styles-inline-css */"
+      },
+      {
+        "id": "",
+        "content": ""
+      },
+      {
+        "id": "wp-custom-css",
+        "content": ".scroll-part .elementor-widget-icon-list {\nposition: sticky;\ntop: 135px;\n}\n.scroll-img .elementor-widget-image {\nposition: sticky;\ntop: 120px;\n}"
+      },
+      {
+        "id": "global-styles-inline-css",
+        "content": ":root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}\n/*# sourceURL=global-styles-inline-css */"
+      },
+      {
+        "id": "body-style-0",
+        "content": ".elementor-3080 .elementor-element.elementor-element-433ca67c{--display:flex;--min-height:60px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:1%;--padding-bottom:1%;--padding-left:8%;--padding-right:8%;--z-index:95;}.elementor-3080 .elementor-element.elementor-element-433ca67c:not(.elementor-motion-effects-element-type-background), .elementor-3080 .elementor-element.elementor-element-433ca67c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3080 .elementor-element.elementor-element-7e925246{text-align:left;}.elementor-3080 .elementor-element.elementor-element-7e925246 img{width:100%;height:60px;object-fit:contain;object-position:center center;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-menu-toggle{margin-left:auto;background-color:#02010100;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu .elementor-item{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item{color:#1C244B;fill:#1C244B;padding-left:0px;padding-right:0px;padding-top:5px;padding-bottom:5px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item:hover,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.elementor-item-active,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.highlighted,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item:focus{color:#324A6D;fill:#324A6D;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#324A6D;}.elementor-3080 .elementor-element.elementor-element-609ca708{--e-nav-menu-horizontal-menu-item-margin:calc( 30px / 2 );}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:30px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-menu-toggle{color:#1C244B;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown{background-color:#F3F5F8;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a:hover,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.elementor-item-active,\n.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.highlighted{background-color:#F9FAFD;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a.elementor-item-active{background-color:#F9FAFD;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown .elementor-item, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;letter-spacing:0px;}.elementor-3080 .elementor-element.elementor-element-609ca708 div.elementor-menu-toggle{color:#467FF7;}.elementor-3080 .elementor-element.elementor-element-609ca708 div.elementor-menu-toggle svg{fill:#467FF7;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button-content-wrapper{flex-direction:row-reverse;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button .elementor-button-content-wrapper{gap:5px;}.elementor-3080 .elementor-element.elementor-element-2a6eb88 .elementor-button{font-weight:600;border-radius:30px 30px 30px 30px;}@media(max-width:1024px){.elementor-3080 .elementor-element.elementor-element-433ca67c{--padding-top:0%;--padding-bottom:0%;--padding-left:5%;--padding-right:5%;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu .elementor-item{font-size:14px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown .elementor-item, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:14px;}}@media(max-width:767px){.elementor-3080 .elementor-element.elementor-element-433ca67c{--min-height:50px;--padding-top:2%;--padding-bottom:2%;--padding-left:2%;--padding-right:2%;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--dropdown a{padding-top:14px;padding-bottom:14px;}.elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-3080 .elementor-element.elementor-element-609ca708 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:15px !important;}.elementor-3080 .elementor-element.elementor-element-609ca708{--nav-menu-icon-size:20px;}}"
+      },
+      {
+        "id": "body-style-1",
+        "content": ".elementor-3084 .elementor-element.elementor-element-f69d561{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 20px;--row-gap:0px;--column-gap:20px;--flex-wrap:wrap;--padding-top:80px;--padding-bottom:50px;--padding-left:20px;--padding-right:20px;}.elementor-3084 .elementor-element.elementor-element-f69d561:not(.elementor-motion-effects-element-type-background), .elementor-3084 .elementor-element.elementor-element-f69d561 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-d09e2c5 );}.elementor-3084 .elementor-element.elementor-element-28cb51e{--display:flex;--gap:32px 32px;--row-gap:32px;--column-gap:32px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-157b228{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--gap:12px 0px;--row-gap:12px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-157b228.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-icon i{transition:color 0.3s;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-icon svg{transition:fill 0.3s;}.elementor-3084 .elementor-element.elementor-element-084bedf{--e-icon-list-icon-size:14px;--icon-vertical-offset:0px;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-item > a{font-family:\"Poppins\", Sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;}.elementor-3084 .elementor-element.elementor-element-084bedf .elementor-icon-list-text{color:#133D8D;transition:color 0.3s;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--gap:0px 40px;--row-gap:0px;--column-gap:40px;--flex-wrap:nowrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-372758e .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-55b03bf .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 8px 0px;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-ae89519 .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-ad7372a{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:12px 20px;--row-gap:12px;--column-gap:20px;--flex-wrap:wrap;--align-content:center;--padding-top:0px;--padding-bottom:20px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-566892a{column-gap:0px;text-align:center;color:var( --e-global-color-accent );font-family:\"Lato\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;}.elementor-3084 .elementor-element.elementor-element-566892a p{margin-bottom:0px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button{background-color:#FFFFFF00;font-family:\"Poppins\", Sans-serif;font-size:20px;font-weight:400;line-height:32px;fill:var( --e-global-color-text );color:var( --e-global-color-text );border-style:solid;border-width:0px 0px 1px 0px;border-color:var( --e-global-color-a381a15 );border-radius:0px 0px 0px 0px;padding:8px 0px 9px 0px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button-content-wrapper{flex-direction:row;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:hover, .elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:focus{color:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:hover svg, .elementor-3084 .elementor-element.elementor-element-6038e07 .elementor-button:focus svg{fill:var( --e-global-color-primary );}.elementor-3084 .elementor-element.elementor-element-9ad6109{--divider-border-style:solid;--divider-color:var( --e-global-color-secondary );--divider-border-width:1px;}.elementor-3084 .elementor-element.elementor-element-9ad6109 .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-3084 .elementor-element.elementor-element-9ad6109 .elementor-divider{text-align:center;padding-block-start:10px;padding-block-end:10px;}.elementor-3084 .elementor-element.elementor-element-1ba6504{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-e3e9df0{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-413d589 img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-f7678c6 img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-c61703f img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-952cb0f img{width:100%;height:24px;}.elementor-3084 .elementor-element.elementor-element-91756d8{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3084 .elementor-element.elementor-element-76d23b0{column-gap:0px;text-align:right;color:var( --e-global-color-accent );font-family:\"Lato\", Sans-serif;font-weight:400;line-height:32px;}.elementor-3084 .elementor-element.elementor-element-76d23b0 p{margin-bottom:0px;}@media(min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--width:100%;}}@media(max-width:1200px) and (min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--width:100%;}.elementor-3084 .elementor-element.elementor-element-ad7372a{--width:100%;}}@media(max-width:880px) and (min-width:768px){.elementor-3084 .elementor-element.elementor-element-157b228{--width:100%;}}@media(max-width:767px){.elementor-3084 .elementor-element.elementor-element-f69d561{--padding-top:40px;--padding-bottom:40px;--padding-left:20px;--padding-right:20px;}.elementor-3084 .elementor-element.elementor-element-157b228{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );}.elementor-3084 .elementor-element.elementor-element-d9be598{text-align:center;}.elementor-3084 .elementor-element.elementor-element-9ea04e9{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:20px 20px;--row-gap:20px;--column-gap:20px;}.elementor-3084 .elementor-element.elementor-element-372758e{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-55b03bf{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-ae89519{width:100%;max-width:100%;}.elementor-3084 .elementor-element.elementor-element-566892a{text-align:center;}.elementor-3084 .elementor-element.elementor-element-1ba6504.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-e3e9df0{--justify-content:center;}.elementor-3084 .elementor-element.elementor-element-e3e9df0.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-413d589 img{height:32px;}.elementor-3084 .elementor-element.elementor-element-f7678c6 img{height:32px;}.elementor-3084 .elementor-element.elementor-element-c61703f img{height:32px;}.elementor-3084 .elementor-element.elementor-element-952cb0f img{height:32px;}.elementor-3084 .elementor-element.elementor-element-91756d8.e-con{--align-self:center;}.elementor-3084 .elementor-element.elementor-element-76d23b0{text-align:center;}}"
+      }
+    ],
+    "external": [
+      {
+        "href": "/static/css/plugins/contact-form-7/includes/css/styles.css",
+        "id": "contact-form-7-css"
+      },
+      {
+        "href": "/static/css/plugins/the-preloader/css/templates/image.css",
+        "id": "the_preloader_template-css"
+      },
+      {
+        "href": "/static/css/plugins/animation-addons-for-elementor/assets/css/wcf-addons.min.css",
+        "id": "wcf--addons-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/style.min.css",
+        "id": "hello-elementor-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/theme.min.css",
+        "id": "hello-elementor-theme-style-css"
+      },
+      {
+        "href": "/static/css/themes/hello-elementor/header-footer.min.css",
+        "id": "hello-elementor-header-footer-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-frontend.min.css",
+        "id": "elementor-frontend-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3.css",
+        "id": "elementor-post-3-css"
+      },
+      {
+        "href": "/static/css/plugins/newsletter/style.css",
+        "id": "newsletter-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-widget-icon-list.min.css",
+        "id": "widget-icon-list-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-heading.min.css",
+        "id": "widget-heading-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-text-editor.min.css",
+        "id": "widget-text-editor-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor-pro/assets/css/widget-form.min.css",
+        "id": "widget-form-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-image.min.css",
+        "id": "widget-image-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-widget-icon-box.min.css",
+        "id": "widget-icon-box-css"
+      },
+      {
+        "href": "/static/css/elementor/post-17502.css",
+        "id": "elementor-post-17502-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3080.css",
+        "id": "elementor-post-3080-css"
+      },
+      {
+        "href": "/static/css/elementor/custom-pro-widget-nav-menu.min.css",
+        "id": "widget-nav-menu-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor-pro/assets/css/modules/sticky.min.css",
+        "id": "e-sticky-css"
+      },
+      {
+        "href": "/static/css/elementor/post-3084.css",
+        "id": "elementor-post-3084-css"
+      },
+      {
+        "href": "/static/css/plugins/elementor/assets/css/widget-divider.min.css",
+        "id": "widget-divider-css"
+      }
+    ]
+  },
+  "extractedAt": "2025-12-29T13:49:58.141Z"
+}

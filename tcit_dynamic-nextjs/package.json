@@ -1,0 +1,36 @@
+{
+  "name": "tcit-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "extract-data": "node scripts/extract-data.js",
+    "extract-header": "node scripts/extract-header.js",
+    "extract-footer": "node scripts/extract-footer.js",
+    "migrate-assets": "node scripts/migrate-assets.js",
+    "copy-css": "node scripts/copy-css.js",
+    "update-paths": "node scripts/update-image-paths.js",
+    "setup": "npm run extract-data && npm run extract-header && npm run extract-footer && npm run migrate-assets && npm run copy-css && npm run update-paths"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  },
+  "resolutions": {
+    "@types/react": "^18.2.0"
+  }
+}
+

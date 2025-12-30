@@ -1,0 +1,10 @@
+.elementor-21520 .elementor-element.elementor-element-de25110{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}.elementor-21520 .elementor-element.elementor-element-01c1b09{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;}@media(min-width:768px){.elementor-21520 .elementor-element.elementor-element-de25110{--content-width:49%;}}/* Start custom CSS for html, class: .elementor-element-9a3afec */.btn-custom {
+    background: #f5f5f5;
+    padding: 20px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin: 30px auto;
+    border: 1px solid #333;
+    
+}/* End custom CSS */

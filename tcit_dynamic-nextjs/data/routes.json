@@ -1,0 +1,101 @@
+{
+  "routes": [
+    {
+      "slug": "index",
+      "path": "/"
+    },
+    {
+      "slug": "about-us-2",
+      "path": "/about-us-2"
+    },
+    {
+      "slug": "application-development",
+      "path": "/application-development"
+    },
+    {
+      "slug": "blog",
+      "path": "/blog"
+    },
+    {
+      "slug": "branding-design-services",
+      "path": "/branding-design-services"
+    },
+    {
+      "slug": "cbd-case-study",
+      "path": "/cbd-case-study"
+    },
+    {
+      "slug": "cms-development-simplified",
+      "path": "/cms-development-simplified"
+    },
+    {
+      "slug": "contact",
+      "path": "/contact"
+    },
+    {
+      "slug": "custom-software-development",
+      "path": "/custom-software-development"
+    },
+    {
+      "slug": "customer-experience-optimization",
+      "path": "/customer-experience-optimization"
+    },
+    {
+      "slug": "designing-applications-that-users-love-a-guide-to-effective-ui",
+      "path": "/designing-applications-that-users-love-a-guide-to-effective-ui"
+    },
+    {
+      "slug": "digital-strategy-and-transformation",
+      "path": "/digital-strategy-and-transformation"
+    },
+    {
+      "slug": "elementor-21520",
+      "path": "/elementor-21520"
+    },
+    {
+      "slug": "how-ux-ui-design-transforms-digital-experiences-for-your-customers",
+      "path": "/how-ux-ui-design-transforms-digital-experiences-for-your-customers"
+    },
+    {
+      "slug": "intelligent-digital-marketing",
+      "path": "/intelligent-digital-marketing"
+    },
+    {
+      "slug": "logo-design-that-speaks-creating-visual-identities-that-stick",
+      "path": "/logo-design-that-speaks-creating-visual-identities-that-stick"
+    },
+    {
+      "slug": "managed-cloud-and-it-services",
+      "path": "/managed-cloud-and-it-services"
+    },
+    {
+      "slug": "mashreq-bank-digital-onboarding",
+      "path": "/mashreq-bank-digital-onboarding"
+    },
+    {
+      "slug": "new-branding-design-essentials-building-a-strong-identity-for-your-business",
+      "path": "/new-branding-design-essentials-building-a-strong-identity-for-your-business"
+    },
+    {
+      "slug": "newsletter",
+      "path": "/newsletter"
+    },
+    {
+      "slug": "our-works",
+      "path": "/our-works"
+    },
+    {
+      "slug": "services",
+      "path": "/services"
+    },
+    {
+      "slug": "suntory-case-study",
+      "path": "/suntory-case-study"
+    },
+    {
+      "slug": "ux-research-101-understanding-your-users-for-better-design",
+      "path": "/ux-research-101-understanding-your-users-for-better-design"
+    }
+  ],
+  "total": 24
+}
