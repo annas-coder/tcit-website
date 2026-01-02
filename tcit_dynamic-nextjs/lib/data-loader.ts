@@ -80,14 +80,10 @@ export interface NavigationData {
 }
 
 export interface FooterData {
-  html: string;
-  inlineStyles: string;
   cssFiles: string[];
 }
 
 export interface HeaderData {
-  html: string;
-  inlineStyles: string;
   cssFiles: string[];
 }
 
@@ -206,7 +202,7 @@ export function getFooter(): FooterData | null {
     const data = JSON.parse(fileContents) as FooterData;
     
     // Validate data structure
-    if (!data || !data.html) {
+    if (!data || !data.cssFiles) {
       console.warn(`Invalid footer data structure in: ${filePath}`);
       return null;
     }
@@ -234,7 +230,7 @@ export function getHeader(): HeaderData | null {
     const data = JSON.parse(fileContents) as HeaderData;
     
     // Validate data structure
-    if (!data || !data.html) {
+    if (!data || !data.cssFiles) {
       console.warn(`Invalid header data structure in: ${filePath}`);
       return null;
     }

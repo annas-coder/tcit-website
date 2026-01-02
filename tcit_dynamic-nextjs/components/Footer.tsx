@@ -1,67 +1,435 @@
+import Link from 'next/link';
 import { FooterData } from '@/lib/data-loader';
 
 interface FooterProps {
   footerData: FooterData | null;
 }
 
-// Helper function to normalize paths in HTML content
-function normalizePaths(html: string): string {
-  return html
-    // Image src paths
-    .replace(/src="\.\/wp-content\/uploads\//g, 'src="/static/images/')
-    .replace(/src="\.\.\/wp-content\/uploads\//g, 'src="/static/images/')
-    .replace(/src="\/wp-content\/uploads\//g, 'src="/static/images/')
-    .replace(/src="wp-content\/uploads\//g, 'src="/static/images/')
-    // Image srcset paths
-    .replace(/srcset="([^"]*wp-content\/uploads[^"]*)"/g, (match, srcset) => {
-      const normalized = srcset
-        .replace(/\.\/wp-content\/uploads\//g, '/static/images/')
-        .replace(/\.\.\/wp-content\/uploads\//g, '/static/images/')
-        .replace(/\/wp-content\/uploads\//g, '/static/images/')
-        .replace(/wp-content\/uploads\//g, '/static/images/');
-      return `srcset="${normalized}"`;
-    })
-    // CSS url() paths in style attributes
-    .replace(/url\(['"]?\.\/wp-content\/uploads\//g, 'url(/static/images/')
-    .replace(/url\(['"]?\.\.\/wp-content\/uploads\//g, 'url(/static/images/')
-    .replace(/url\(['"]?\/wp-content\/uploads\//g, 'url(/static/images/')
-    .replace(/url\(['"]?wp-content\/uploads\//g, 'url(/static/images/')
-    // CSS url() paths - external URLs (fallback)
-    .replace(/url\(['"]?https?:\/\/technocit\.com\/wp-content\/uploads\/([^'")]+)['"]?\)/gi, (match, relativePath) => {
-      const publicPath = `/static/images/${relativePath}`;
-      const hasQuotes = match.includes("'") || match.includes('"');
-      if (hasQuotes) {
-        const quote = match.includes("'") ? "'" : '"';
-        return `url(${quote}${publicPath}${quote})`;
-      }
-      return `url(${publicPath})`;
-    })
-    // Link href paths
-    .replace(/href="\.\//g, 'href="/')
-    .replace(/href="\.\.\//g, 'href="/');
-}
-
 export default function Footer({ footerData }: FooterProps) {
   if (!footerData) {
     // Fallback if footer data is not available
     return (
-      <footer>
-        <div style={{ padding: '20px', textAlign: 'center' }}>
-          <p>&copy; {new Date().getFullYear()} TechnoCIT Software Solutions</p>
+      <div className="elementor elementor-3084">
+        <div className="elementor-element elementor-element-f69d561 e-con-full e-flex e-con e-parent">
+          <div className="elementor-element elementor-element-28cb51e e-flex e-con-boxed e-con e-child">
+            <div className="e-con-inner">
+              <p>&copy; {new Date().getFullYear()} TechnoCIT Software Solutions</p>
+            </div>
+          </div>
         </div>
-      </footer>
+      </div>
     );
   }
 
   return (
-    <>
-      {/* Include inline styles */}
-      {footerData.inlineStyles && (
-        <style dangerouslySetInnerHTML={{ __html: footerData.inlineStyles }} />
-      )}
+    <div
+      data-elementor-type="wp-post"
+      data-elementor-id="3084"
+      className="elementor elementor-3084"
+      data-elementor-post-type="wcf-addons-template"
+    >
       <div
-        dangerouslySetInnerHTML={{ __html: normalizePaths(footerData.html) }}
-      />
-    </>
+        className="elementor-element elementor-element-f69d561 e-con-full e-flex e-con e-parent"
+        data-id="f69d561"
+        data-element_type="container"
+      >
+        <div
+          className="elementor-element elementor-element-28cb51e e-flex e-con-boxed e-con e-child"
+          data-id="28cb51e"
+          data-element_type="container"
+        >
+          <div className="e-con-inner">
+            {/* Contact Section */}
+            <div
+              className="elementor-element elementor-element-157b228 e-con-full e-flex e-con e-child"
+              data-id="157b228"
+              data-element_type="container"
+            >
+              {/* Icon List - Contact Us */}
+              <div
+                className="elementor-element elementor-element-084bedf elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                data-id="084bedf"
+                data-element_type="widget"
+                data-widget_type="icon-list.default"
+              >
+                <div className="elementor-widget-container">
+                  <ul className="elementor-icon-list-items">
+                    <li className="elementor-icon-list-item">
+                      <span className="elementor-icon-list-icon">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="19"
+                          height="14"
+                          viewBox="0 0 19 14"
+                          fill="none"
+                        >
+                          <path
+                            fillRule="evenodd"
+                            clipRule="evenodd"
+                            d="M18.9169 0.808643L14.1871 13.814L11.8223 13.814L16.5522 0.808594L18.9169 0.808643Z"
+                            fill="#B0CBEA"
+                          />
+                          <path
+                            fillRule="evenodd"
+                            clipRule="evenodd"
+                            d="M14.1886 0.809326L9.45976 13.8146L6.50391 13.8143L11.2337 0.809327L14.1886 0.809326Z"
+                            fill="#4E84C4"
+                          />
+                          <path
+                            fillRule="evenodd"
+                            clipRule="evenodd"
+                            d="M8.86731 0.809326L4.13837 13.8146L0 13.8147L4.72913 0.809326L8.86731 0.809326Z"
+                            fill="#133D8D"
+                          />
+                        </svg>
+                      </span>
+                      <span className="elementor-icon-list-text">Contact Us</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              {/* Heading */}
+              <div
+                className="elementor-element elementor-element-d9be598 elementor-widget elementor-widget-heading"
+                data-id="d9be598"
+                data-element_type="widget"
+                data-widget_type="heading.default"
+              >
+                <div className="elementor-widget-container">
+                  <h2 className="elementor-heading-title elementor-size-default">Let's Build Together</h2>
+                </div>
+              </div>
+            </div>
+
+            {/* Contact Buttons */}
+            <div
+              className="elementor-element elementor-element-9ea04e9 e-con-full e-flex e-con e-child"
+              data-id="9ea04e9"
+              data-element_type="container"
+            >
+              {/* Email Button */}
+              <div
+                className="elementor-element elementor-element-372758e elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button"
+                data-id="372758e"
+                data-element_type="widget"
+                data-widget_type="button.default"
+              >
+                <div className="elementor-widget-container">
+                  <div className="elementor-button-wrapper">
+                    <a
+                      className="elementor-button elementor-button-link elementor-size-sm"
+                      href="mailto:info@technocit.com?subject=Test%20Subject&body=Test%20Body%20Content/Message"
+                    >
+                      <span className="elementor-button-content-wrapper">
+                        <span className="elementor-button-icon">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="25"
+                            height="24"
+                            viewBox="0 0 25 24"
+                            fill="none"
+                          >
+                            <g clipPath="url(#clip0_1785_6848)">
+                              <path
+                                d="M22.3906 3.5625H2.60932C1.4486 3.5625 0.499939 4.50698 0.499939 5.67188V18.3281C0.499939 19.4934 1.44921 20.4375 2.60932 20.4375H22.3906C23.5513 20.4375 24.5 19.493 24.5 18.3281V5.67188C24.5 4.5067 23.5508 3.5625 22.3906 3.5625ZM22.0667 4.96875C21.3847 5.65299 13.3739 13.6898 13.0448 14.02C12.77 14.2958 12.2301 14.2959 11.9551 14.02L2.93322 4.96875H22.0667ZM1.90619 18.0696V5.93039L7.95612 12L1.90619 18.0696ZM2.93322 19.0313L8.94889 12.996L10.9591 15.0128C11.7829 15.8393 13.2173 15.8389 14.0408 15.0128L16.0511 12.996L22.0667 19.0313H2.93322ZM23.0937 18.0696L17.0438 12L23.0937 5.93039V18.0696Z"
+                                fill="#133D8D"
+                              />
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_1785_6848">
+                                <rect width="24" height="24" fill="white" transform="translate(0.499939)" />
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </span>
+                        <span className="elementor-button-text">info@technocit.com</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Phone Button */}
+              <div
+                className="elementor-element elementor-element-55b03bf elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button"
+                data-id="55b03bf"
+                data-element_type="widget"
+                data-widget_type="button.default"
+              >
+                <div className="elementor-widget-container">
+                  <div className="elementor-button-wrapper">
+                    <a
+                      className="elementor-button elementor-button-link elementor-size-sm"
+                      href="tel:+97145647409"
+                    >
+                      <span className="elementor-button-content-wrapper">
+                        <span className="elementor-button-icon">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="25"
+                            height="24"
+                            viewBox="0 0 25 24"
+                            fill="none"
+                          >
+                            <g clipPath="url(#clip0_1785_6854)">
+                              <path
+                                d="M19.4227 14.8647C18.9314 14.3531 18.3387 14.0795 17.7106 14.0795C17.0876 14.0795 16.4899 14.348 15.9783 14.8596L14.3776 16.4552C14.2459 16.3843 14.1142 16.3184 13.9876 16.2526C13.8052 16.1614 13.633 16.0753 13.4861 15.9841C11.9868 15.0318 10.6242 13.7908 9.31733 12.1851C8.68416 11.3848 8.25867 10.7111 7.94968 10.0273C8.36504 9.64735 8.75001 9.25225 9.12484 8.87235C9.26667 8.73052 9.4085 8.58362 9.55033 8.44179C10.6141 7.37807 10.6141 6.00029 9.55033 4.93656L8.16749 3.55372C8.01046 3.39669 7.84837 3.2346 7.69641 3.07251C7.39249 2.75846 7.07337 2.43427 6.74412 2.13035C6.25278 1.64408 5.6652 1.38574 5.04723 1.38574C4.42925 1.38574 3.83154 1.64408 3.32501 2.13035C3.31994 2.13542 3.31994 2.13542 3.31488 2.14048L1.59265 3.8779C0.944286 4.52627 0.574515 5.31647 0.493469 6.2333C0.3719 7.71238 0.807521 9.09016 1.14184 9.9918C1.96242 12.2054 3.18824 14.2568 5.01684 16.4552C7.23546 19.1044 9.90491 21.1964 12.9543 22.6704C14.1193 23.2225 15.6744 23.876 17.4118 23.9874C17.5181 23.9925 17.6296 23.9975 17.7309 23.9975C18.901 23.9975 19.8837 23.5771 20.6536 22.7413C20.6587 22.7312 20.6688 22.7261 20.6739 22.716C20.9373 22.3969 21.2412 22.1081 21.5603 21.7992C21.7781 21.5915 22.001 21.3737 22.2188 21.1457C22.7203 20.624 22.9837 20.0162 22.9837 19.3931C22.9837 18.765 22.7152 18.1622 22.2036 17.6557L19.4227 14.8647ZM21.2361 20.1985C21.2311 20.2036 21.2311 20.1985 21.2361 20.1985C21.0386 20.4113 20.836 20.6037 20.6181 20.8165C20.2889 21.1305 19.9546 21.4598 19.6405 21.8296C19.1289 22.3766 18.5262 22.6349 17.736 22.6349C17.66 22.6349 17.5789 22.6349 17.503 22.6299C15.9985 22.5336 14.6005 21.9461 13.552 21.4446C10.685 20.0567 8.16749 18.0862 6.0755 15.589C4.34821 13.5072 3.19331 11.5823 2.42844 9.51565C1.95736 8.25438 1.78514 7.2717 1.86112 6.34473C1.91177 5.75209 2.13971 5.26075 2.56014 4.84032L4.28742 3.11303C4.53563 2.88002 4.79903 2.75339 5.05736 2.75339C5.37648 2.75339 5.63481 2.94587 5.7969 3.10797C5.80197 3.11303 5.80703 3.1181 5.8121 3.12316C6.12108 3.41189 6.41488 3.71074 6.72386 4.02986C6.88089 4.19195 7.04298 4.35405 7.20507 4.5212L8.58792 5.90405C9.12484 6.44098 9.12484 6.93738 8.58792 7.47431C8.44102 7.62121 8.29919 7.7681 8.15229 7.90993C7.7268 8.34555 7.32158 8.75078 6.88089 9.14588C6.87076 9.15601 6.86063 9.16108 6.85556 9.17121C6.41994 9.60683 6.50099 10.0323 6.59216 10.321C6.59723 10.3362 6.60229 10.3514 6.60736 10.3666C6.967 11.2379 7.47354 12.0585 8.24347 13.0361L8.24854 13.0411C9.64658 14.7634 11.1206 16.1057 12.7466 17.134C12.9543 17.2657 13.167 17.372 13.3696 17.4733C13.552 17.5645 13.7242 17.6506 13.8711 17.7418C13.8913 17.7519 13.9116 17.7671 13.9319 17.7773C14.1041 17.8634 14.2662 17.9039 14.4333 17.9039C14.8538 17.9039 15.1172 17.6405 15.2033 17.5544L16.9356 15.822C17.1079 15.6498 17.3814 15.4421 17.7005 15.4421C18.0146 15.4421 18.2729 15.6397 18.4299 15.8119C18.435 15.817 18.435 15.817 18.44 15.822L21.2311 18.613C21.7528 19.1297 21.7528 19.6616 21.2361 20.1985Z"
+                                fill="#133D8D"
+                              />
+                              <path
+                                d="M13.4085 5.70615C14.7357 5.92903 15.9412 6.55713 16.9036 7.51955C17.8661 8.48197 18.4891 9.68753 18.717 11.0147C18.7728 11.349 19.0615 11.582 19.3907 11.582C19.4313 11.582 19.4667 11.5769 19.5072 11.5718C19.8821 11.5111 20.1303 11.1565 20.0695 10.7816C19.796 9.17593 19.0362 7.71204 17.8762 6.55207C16.7162 5.3921 15.2523 4.63229 13.6466 4.35876C13.2718 4.29798 12.9223 4.54618 12.8564 4.91595C12.7906 5.28573 13.0337 5.64537 13.4085 5.70615Z"
+                                fill="#133D8D"
+                              />
+                              <path
+                                d="M24.4196 10.585C23.9688 7.94084 22.7227 5.53479 20.808 3.62008C18.8933 1.70537 16.4872 0.45929 13.8431 0.00847215C13.4733 -0.0573776 13.1238 0.195891 13.0579 0.565662C12.9972 0.9405 13.2454 1.29001 13.6202 1.35586C15.9807 1.75602 18.1334 2.87547 19.8455 4.5825C21.5576 6.29459 22.672 8.44737 23.0722 10.8078C23.1279 11.1421 23.4166 11.3752 23.7459 11.3752C23.7864 11.3752 23.8219 11.3701 23.8624 11.365C24.2322 11.3093 24.4854 10.9547 24.4196 10.585Z"
+                                fill="#133D8D"
+                              />
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_1785_6854">
+                                <rect width="24" height="24" fill="white" transform="translate(0.499969)" />
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </span>
+                        <span className="elementor-button-text">+971 4 564 7409</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+
+              {/* Contact Us Button */}
+              <div
+                className="elementor-element elementor-element-ae89519 elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button"
+                data-id="ae89519"
+                data-element_type="widget"
+                data-widget_type="button.default"
+              >
+                <div className="elementor-widget-container">
+                  <div className="elementor-button-wrapper">
+                    <Link href="/contact/" className="elementor-button elementor-button-link elementor-size-sm">
+                      <span className="elementor-button-content-wrapper">
+                        <span className="elementor-button-icon">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="23"
+                            height="22"
+                            viewBox="0 0 23 22"
+                            fill="none"
+                          >
+                            <path
+                              fillRule="evenodd"
+                              clipRule="evenodd"
+                              d="M16.9694 0.0756648C16.0849 -1.06665e-05 14.9845 0 13.5809 0H9.41917C8.01555 0 6.91511 -1.06665e-05 6.03066 0.0756648C5.13005 0.152723 4.38604 0.312239 3.71259 0.671574C2.6055 1.26231 1.7054 2.20492 1.14131 3.3643C0.798187 4.06955 0.645865 4.84872 0.572283 5.79186C0.50002 6.71809 0.500031 7.8705 0.500031 9.34042V13.9074C0.500031 16.5834 2.57152 18.7528 5.12684 18.7528H5.74259C5.99687 18.7528 6.17074 19.0217 6.0763 19.2689C5.37367 21.1085 7.39667 22.7715 8.93617 21.62L11.6076 19.6217L11.6579 19.5842C12.3833 19.049 13.2476 18.7588 14.135 18.7529L14.1967 18.7528H14.9086C16.4932 18.753 17.4599 18.7532 18.2718 18.5038C20.1947 17.9134 21.6985 16.3386 22.2623 14.3249C22.5004 13.4746 22.5002 12.4623 22.5 10.8029V9.3404C22.5 7.87051 22.5 6.71807 22.4278 5.79186C22.3542 4.8487 22.2018 4.06955 21.8587 3.3643C21.2946 2.20492 20.3946 1.26231 19.2874 0.671574C18.614 0.312239 17.87 0.152723 16.9694 0.0756648ZM4.40942 2.10376C4.83042 1.87912 5.34995 1.74664 6.15564 1.67771C6.9703 1.608 8.00816 1.60738 9.45351 1.60738H13.5465C14.9919 1.60738 16.0298 1.608 16.8444 1.67771C17.6501 1.74664 18.1696 1.87912 18.5907 2.10376C19.4089 2.54039 20.0742 3.2371 20.4912 4.09404C20.7056 4.53492 20.8321 5.079 20.898 5.92274C20.9645 6.77588 20.9651 7.86276 20.9651 9.37638V10.6454C20.9651 12.512 20.9574 13.273 20.7894 13.8725C20.3727 15.361 19.2612 16.5249 17.8399 16.9614C17.2674 17.1372 16.5407 17.1454 14.7583 17.1454H14.1967L14.1252 17.1455C12.9246 17.1535 11.7551 17.5461 10.7737 18.2702L8.04403 20.312C7.75193 20.5305 7.36809 20.2149 7.50141 19.8659C7.99913 18.5629 7.08274 17.1454 5.74259 17.1454H5.12684C3.41921 17.1454 2.03491 15.6957 2.03491 13.9074V9.37638C2.03491 7.86276 2.03551 6.77588 2.10207 5.92274C2.1679 5.079 2.2944 4.53492 2.50891 4.09404C2.92584 3.2371 3.59113 2.54039 4.40942 2.10376Z"
+                              fill="#133D8D"
+                            />
+                            <path
+                              d="M8.43026 9.37627C8.43026 9.96811 7.97213 10.4479 7.40701 10.4479C6.84188 10.4479 6.38375 9.96811 6.38375 9.37627C6.38375 8.78446 6.84188 8.30469 7.40701 8.30469C7.97213 8.30469 8.43026 8.78446 8.43026 9.37627Z"
+                              fill="#133D8D"
+                            />
+                            <path
+                              d="M12.5233 9.37627C12.5233 9.96811 12.0652 10.4479 11.5 10.4479C10.9349 10.4479 10.4768 9.96811 10.4768 9.37627C10.4768 8.78446 10.9349 8.30469 11.5 8.30469C12.0652 8.30469 12.5233 8.78446 12.5233 9.37627Z"
+                              fill="#133D8D"
+                            />
+                            <path
+                              d="M16.6163 9.37627C16.6163 9.96811 16.1582 10.4479 15.593 10.4479C15.0279 10.4479 14.5698 9.96811 14.5698 9.37627C14.5698 8.78446 15.0279 8.30469 15.593 8.30469C16.1582 8.30469 16.6163 8.78446 16.6163 9.37627Z"
+                              fill="#133D8D"
+                            />
+                          </svg>
+                        </span>
+                        <span className="elementor-button-text">Contact Us</span>
+                      </span>
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Address Section */}
+            <div
+              className="elementor-element elementor-element-ad7372a e-con-full e-flex e-con e-child"
+              data-id="ad7372a"
+              data-element_type="container"
+            >
+              {/* Address Text */}
+              <div
+                className="elementor-element elementor-element-566892a elementor-widget elementor-widget-text-editor"
+                data-id="566892a"
+                data-element_type="widget"
+                data-widget_type="text-editor.default"
+              >
+                <div className="elementor-widget-container">
+                  <p>303, Saheel Tower 2, Al Nahda 1, P.O.Box: 115387, Dubai, UAE.</p>
+                </div>
+              </div>
+
+              {/* View Direction Button */}
+              <div
+                className="elementor-element elementor-element-6038e07 elementor-mobile-align-justify elementor-widget elementor-widget-button"
+                data-id="6038e07"
+                data-element_type="widget"
+                data-widget_type="button.default"
+              >
+                <div className="elementor-widget-container">
+                  <div className="elementor-button-wrapper">
+                    <a
+                      className="elementor-button elementor-button-link elementor-size-sm"
+                      href="https://maps.app.goo.gl/9jGTcLBzD3CojKZD7"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <span className="elementor-button-content-wrapper">
+                        <span className="elementor-button-icon">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="24"
+                            height="24"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                          >
+                            <path
+                              d="M12.0093 1.49902C7.87601 1.49902 4.5078 4.86883 4.5078 9.00208C4.5078 11.9485 6.28515 15.1793 8.00584 17.7603C9.72653 20.3414 11.4497 22.25 11.4497 22.25C11.52 22.3279 11.6059 22.3901 11.7018 22.4327C11.7977 22.4753 11.9014 22.4974 12.0063 22.4974C12.1112 22.4974 12.215 22.4753 12.3109 22.4327C12.4068 22.3901 12.4926 22.3279 12.563 22.25C12.563 22.25 14.2861 20.3414 16.0068 17.7603C17.7275 15.1793 19.5049 11.9485 19.5049 9.00208C19.5049 4.86883 16.1425 1.49902 12.0093 1.49902ZM12.0093 2.99905C15.3318 2.99905 18.0049 5.67948 18.0049 9.00208C18.0049 11.3057 16.4145 14.4482 14.7602 16.9297C13.3843 18.9935 12.4334 20.0363 12.0093 20.523C11.5861 20.0375 10.6336 18.9948 9.25682 16.9297C7.60251 14.4482 6.0078 11.3057 6.0078 9.00208C6.0078 5.67948 8.68667 2.99905 12.0093 2.99905ZM12.0093 6.00065C10.3613 6.00065 9.00779 7.3541 9.00779 9.00208C9.00779 10.65 10.3613 12.002 12.0093 12.002C13.6572 12.002 15.0093 10.65 15.0093 9.00208C15.0093 7.3541 13.6572 6.00065 12.0093 6.00065ZM12.0093 7.5005C12.8466 7.5005 13.5093 8.16476 13.5093 9.00208C13.5093 9.83938 12.8466 10.502 12.0093 10.5019C11.1719 10.502 10.5093 9.83938 10.5093 9.00208C10.5093 8.16476 11.1719 7.5005 12.0093 7.5005Z"
+                              fill="#133D8D"
+                            />
+                          </svg>
+                        </span>
+                        <span className="elementor-button-text">View Direction</span>
+                      </span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Divider */}
+            <div
+              className="elementor-element elementor-element-9ad6109 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+              data-id="9ad6109"
+              data-element_type="widget"
+              data-widget_type="divider.default"
+            >
+              <div className="elementor-widget-container">
+                <div className="elementor-divider">
+                  <span className="elementor-divider-separator"></span>
+                </div>
+              </div>
+            </div>
+
+            {/* Social Media & Copyright */}
+            <div
+              className="elementor-element elementor-element-1ba6504 e-con-full e-flex e-con e-child"
+              data-id="1ba6504"
+              data-element_type="container"
+            >
+              <div
+                className="elementor-element elementor-element-e3e9df0 e-con-full e-flex e-con e-child"
+                data-id="e3e9df0"
+                data-element_type="container"
+              >
+                {/* LinkedIn */}
+                <div
+                  className="elementor-element elementor-element-413d589 elementor-widget elementor-widget-image"
+                  data-id="413d589"
+                  data-element_type="widget"
+                  data-widget_type="image.default"
+                >
+                  <div className="elementor-widget-container">
+                    <a href="https://www.linkedin.com/company/tcitss/" target="_blank" rel="noopener noreferrer">
+                      <img
+                        width={20}
+                        height={21}
+                        src="/static/images/2024/05/Linkedin.svg"
+                        className="attachment-full size-full wp-image-20571"
+                        alt="LinkedIn - TechnoCIT Software Development Company"
+                      />
+                    </a>
+                  </div>
+                </div>
+
+                {/* YouTube */}
+                <div
+                  className="elementor-element elementor-element-f7678c6 elementor-widget elementor-widget-image"
+                  data-id="f7678c6"
+                  data-element_type="widget"
+                  data-widget_type="image.default"
+                >
+                  <div className="elementor-widget-container">
+                    <a
+                      href="https://www.youtube.com/@TechnoCITSoftwareSolutions"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img
+                        width={20}
+                        height={21}
+                        src="/static/images/2024/05/YT.svg"
+                        className="attachment-full size-full wp-image-20573"
+                        alt="Youtube - TechnoCIT Software Development Company"
+                      />
+                    </a>
+                  </div>
+                </div>
+
+                {/* X (Twitter) - Hidden on most screens */}
+                <div
+                  className="elementor-element elementor-element-c61703f elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet_extra elementor-hidden-tablet elementor-hidden-mobile_extra elementor-hidden-mobile elementor-widget elementor-widget-image"
+                  data-id="c61703f"
+                  data-element_type="widget"
+                  data-widget_type="image.default"
+                >
+                  <div className="elementor-widget-container">
+                    <img
+                      width={20}
+                      height={21}
+                      src="/static/images/2024/05/X.svg"
+                      className="attachment-full size-full wp-image-20572"
+                      alt="Follow us TechnoCIT on X"
+                    />
+                  </div>
+                </div>
+
+                {/* Facebook - Hidden on most screens */}
+                <div
+                  className="elementor-element elementor-element-952cb0f elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet_extra elementor-hidden-tablet elementor-hidden-mobile_extra elementor-hidden-mobile elementor-widget elementor-widget-image"
+                  data-id="952cb0f"
+                  data-element_type="widget"
+                  data-widget_type="image.default"
+                >
+                  <div className="elementor-widget-container">
+                    <img
+                      width={20}
+                      height={21}
+                      src="/static/images/2024/05/FB.svg"
+                      className="attachment-full size-full wp-image-20570"
+                      alt="Follow us TechnoCIT on Facebook"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              {/* Copyright */}
+              <div
+                className="elementor-element elementor-element-91756d8 e-con-full e-flex e-con e-child"
+                data-id="91756d8"
+                data-element_type="container"
+              >
+                <div
+                  className="elementor-element elementor-element-76d23b0 elementor-widget elementor-widget-text-editor"
+                  data-id="76d23b0"
+                  data-element_type="widget"
+                  data-widget_type="text-editor.default"
+                >
+                  <div className="elementor-widget-container">
+                    <p>© 2025 TechnoCIT Software Solutions</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }
